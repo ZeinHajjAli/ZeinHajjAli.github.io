@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 26 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ZeinHajjAli.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Misconception</title>
+      <link>https://ZeinHajjAli.github.io/posts/misconception/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeinHajjAli.github.io/posts/misconception/</guid>
+      <description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
+ Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
+    </item>
     
     <item>
       <title>I am Not Artistic</title>
@@ -19,16 +29,6 @@
       
       <guid>https://ZeinHajjAli.github.io/posts/artistic/</guid>
       <description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
-    </item>
-    
-    <item>
-      <title>Misconception</title>
-      <link>https://ZeinHajjAli.github.io/posts/misconception/</link>
-      <pubDate>Sat, 09 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://ZeinHajjAli.github.io/posts/misconception/</guid>
-      <description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
- Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
     </item>
     
   </channel>
