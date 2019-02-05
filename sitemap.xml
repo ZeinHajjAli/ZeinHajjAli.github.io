@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zeinhajjali.com/projects/site1/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/about/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://zeinhajjali.com/projects/northernnomad/</loc>
+    <loc>https://zeinhajjali.com/projects/nnsi1/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,6 +79,12 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/hugo/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/ideas/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -129,7 +140,25 @@
   
   <url>
     <loc>https://zeinhajjali.com/projects/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/site/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/ssg/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/static-site/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,6 +181,24 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/web-development/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/webdev/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/website/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/writing/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -159,7 +206,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

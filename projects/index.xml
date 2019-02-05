@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>SITE #1: Personal/Resume/Portfolio Website</title>
+      <link>https://zeinhajjali.com/projects/site1/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site1/</guid>
+      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+    </item>
+    
+    <item>
       <title>NNSI #1: Northern Nomad Systems Integration Project</title>
-      <link>https://zeinhajjali.com/projects/northernnomad/</link>
+      <link>https://zeinhajjali.com/projects/nnsi1/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/projects/northernnomad/</guid>
+      <guid>https://zeinhajjali.com/projects/nnsi1/</guid>
       <description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
     </item>
     
