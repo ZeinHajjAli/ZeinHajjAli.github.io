@@ -30,5 +30,25 @@
       <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
     </item>
     
+    <item>
+      <title>SITE #2: Fixed the Domain Issue</title>
+      <link>https://zeinhajjali.com/projects/site2/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site2/</guid>
+      <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
+As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
+    </item>
+    
+    <item>
+      <title>SITE #2: Fixed the Domain Issue</title>
+      <link>https://zeinhajjali.com/projects/site2/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site2/</guid>
+      <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
+As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
+    </item>
+    
   </channel>
 </rss>
