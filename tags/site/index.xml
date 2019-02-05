@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/tags/site/</link>
+    <description>Recent content in Site on Zein Hajj-Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zeinhajjali.com/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SITE #1: Personal/Resume/Portfolio Website</title>
+      <link>https://zeinhajjali.com/projects/site1/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site1/</guid>
+      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+    </item>
+    
+    <item>
+      <title>SITE #1: Personal/Resume/Portfolio Website</title>
+      <link>https://zeinhajjali.com/projects/site1/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site1/</guid>
+      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+    </item>
+    
+  </channel>
+</rss>
