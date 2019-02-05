@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Zein Hajj-Ali</title>
-		<link>https://ZeinHajjAli.github.io/posts/</link>
+		<link>https://zeinhajjali.com/posts/</link>
 		<description>Recent content in Posts on Zein Hajj-Ali</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://ZeinHajjAli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://zeinhajjali.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Arduino Project Ideas</title>
-			<link>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</link>
+			<link>https://zeinhajjali.com/posts/arduinoprojectideas/</link>
 			<pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
 			
-			<guid>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</guid>
+			<guid>https://zeinhajjali.com/posts/arduinoprojectideas/</guid>
 			<description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
  Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
 			<content type="html"><![CDATA[<p>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:</p>
@@ -32,10 +32,10 @@
 		
 		<item>
 			<title>Misconception</title>
-			<link>https://ZeinHajjAli.github.io/posts/misconception/</link>
+			<link>https://zeinhajjali.com/posts/misconception/</link>
 			<pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
 			
-			<guid>https://ZeinHajjAli.github.io/posts/misconception/</guid>
+			<guid>https://zeinhajjali.com/posts/misconception/</guid>
 			<description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
  Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
 			<content type="html"><![CDATA[<blockquote>
@@ -54,10 +54,10 @@
 		
 		<item>
 			<title>Only the Best From NYC</title>
-			<link>https://ZeinHajjAli.github.io/posts/nycpics/</link>
+			<link>https://zeinhajjali.com/posts/nycpics/</link>
 			<pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
 			
-			<guid>https://ZeinHajjAli.github.io/posts/nycpics/</guid>
+			<guid>https://zeinhajjali.com/posts/nycpics/</guid>
 			<description>flickr page</description>
 			<content type="html"><![CDATA[<p><img src="/media/NYCpics/NYC4.jpg" alt="NYC 4" /></p>
 
@@ -79,10 +79,10 @@
 		
 		<item>
 			<title>I am Not Artistic</title>
-			<link>https://ZeinHajjAli.github.io/posts/artistic/</link>
+			<link>https://zeinhajjali.com/posts/artistic/</link>
 			<pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
 			
-			<guid>https://ZeinHajjAli.github.io/posts/artistic/</guid>
+			<guid>https://zeinhajjali.com/posts/artistic/</guid>
 			<description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
 			<content type="html"><![CDATA[<p>I am not artistic. It took me my whole life to accept it, but I&rsquo;ve finally figured it out. Throughout my life I&rsquo;ve taken up countless &ldquo;hobbies&rdquo;, some of which are artistic, while others are technical. During the past week, I&rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different. For example, I took up photography, bought a new DSLR, and went out to take pictures. But more than that, I spent loads of time online trying to understand every little thing about how the camera manipulated light and the relationships between the different components. Once I learned all I could, I tried for a time to take more artistic photos, but I&rsquo;d always go back to taking the same picture again and again with different settings just to see how it all affects the photo. I&rsquo;ve realized that I would make better use of my time and money by experimenting with different hobbies using cheaper parts or materials. I&rsquo;ll be using this blog to assemble a catalog of all the different interests I&rsquo;ve had over the years, as well as listing all the concepts I&rsquo;ve learned so that each post may be used to teach a beginner about a certain subject. There will be no schedule or timetable for any of this, I will be posting a new subject any time I&rsquo;m free or interested.</p>
 ]]></content>

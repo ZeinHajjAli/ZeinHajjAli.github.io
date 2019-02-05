@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on Zein Hajj-Ali</title>
-    <link>https://ZeinHajjAli.github.io/tags/arduino/</link>
+    <link>https://zeinhajjali.com/tags/arduino/</link>
     <description>Recent content in Arduino on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ZeinHajjAli.github.io/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeinhajjali.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arduino Project Ideas</title>
-      <link>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</link>
+      <link>https://zeinhajjali.com/posts/arduinoprojectideas/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</guid>
+      <guid>https://zeinhajjali.com/posts/arduinoprojectideas/</guid>
       <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
  Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
     </item>

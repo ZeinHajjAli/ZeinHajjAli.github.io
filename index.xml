@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zein Hajj-Ali</title>
-    <link>https://ZeinHajjAli.github.io/</link>
+    <link>https://zeinhajjali.com/</link>
     <description>Recent content on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ZeinHajjAli.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://ZeinHajjAli.github.io/about/</link>
+      <link>https://zeinhajjali.com/about/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/about/</guid>
+      <guid>https://zeinhajjali.com/about/</guid>
       <description>Hey,
 Welcome to my tiny site. I&amp;rsquo;m a Computer Systems Undergraduate at Carleton University expected to graduate in April 2020. This site is just a way for me to keep a public log of my projects, no matter their nature. I hope to be updating whenever something worth posting about comes up but I might end up with a backlog of posts that I want to get to.
 You can contact me using any of the following:</description>
@@ -25,48 +25,48 @@ You can contact me using any of the following:</description>
     
     <item>
       <title>Arduino Project Ideas</title>
-      <link>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</link>
+      <link>https://zeinhajjali.com/posts/arduinoprojectideas/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</guid>
+      <guid>https://zeinhajjali.com/posts/arduinoprojectideas/</guid>
       <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
  Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
     </item>
     
     <item>
       <title>NNSI #1: Northern Nomad Systems Integration Project</title>
-      <link>https://ZeinHajjAli.github.io/projects/northernnomad/</link>
+      <link>https://zeinhajjali.com/projects/northernnomad/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/projects/northernnomad/</guid>
+      <guid>https://zeinhajjali.com/projects/northernnomad/</guid>
       <description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
     </item>
     
     <item>
       <title>Misconception</title>
-      <link>https://ZeinHajjAli.github.io/posts/misconception/</link>
+      <link>https://zeinhajjali.com/posts/misconception/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/posts/misconception/</guid>
+      <guid>https://zeinhajjali.com/posts/misconception/</guid>
       <description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
  Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
     </item>
     
     <item>
       <title>Only the Best From NYC</title>
-      <link>https://ZeinHajjAli.github.io/posts/nycpics/</link>
+      <link>https://zeinhajjali.com/posts/nycpics/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/posts/nycpics/</guid>
+      <guid>https://zeinhajjali.com/posts/nycpics/</guid>
       <description>flickr page</description>
     </item>
     
     <item>
       <title>I am Not Artistic</title>
-      <link>https://ZeinHajjAli.github.io/posts/artistic/</link>
+      <link>https://zeinhajjali.com/posts/artistic/</link>
       <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://ZeinHajjAli.github.io/posts/artistic/</guid>
+      <guid>https://zeinhajjali.com/posts/artistic/</guid>
       <description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
     </item>
     
