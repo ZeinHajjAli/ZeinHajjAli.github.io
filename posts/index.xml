@@ -7,8 +7,28 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://ZeinHajjAli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Arduino Project Ideas</title>
+			<link>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</link>
+			<pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://ZeinHajjAli.github.io/posts/arduinoprojectideas/</guid>
+			<description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
+ Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
+			<content type="html"><![CDATA[<p>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:</p>
+
+<ul>
+<li>Arduino film camera (homemade shutter and all).</li>
+<li>Robotic arm built from scrap around the house.</li>
+<li>A printer that really works (no, like really works).</li>
+</ul>
+
+<p>If I find that these go really well, I might order something like a ATtiny to flash and build a real prototype, specifically the printer.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Misconception</title>
