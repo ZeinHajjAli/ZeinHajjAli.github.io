@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project">
+<meta itemprop="description" content="Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
+SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
+Emmanuel Oluyomi 100953361
+Zein Hajj-Ali 101020677
+Hussain Aljabri 100935515
+Ahmad Ayyoub 100954214
+Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.">
+
+
+<meta itemprop="datePublished" content="2019-02-05T00:00:01-05:00" />
+<meta itemprop="dateModified" content="2019-02-05T00:00:01-05:00" />
+<meta itemprop="wordCount" content="1805">
+
+
+
+<meta itemprop="keywords" content="GSBR,Gyroscope,Design Lab,Self-Balancing,Robot,Arduino,IR Sensor," />
+<meta property="og:title" content="GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project" />
+<meta property="og:description" content="Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
+SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
+Emmanuel Oluyomi 100953361
+Zein Hajj-Ali 101020677
+Hussain Aljabri 100935515
+Ahmad Ayyoub 100954214
+Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://zeinhajjali.com/projects/gsbr1/" />
+<meta property="article:published_time" content="2019-02-05T00:00:01-05:00"/>
+<meta property="article:modified_time" content="2019-02-05T00:00:01-05:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project"/>
+<meta name="twitter:description" content="Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
+SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
+Emmanuel Oluyomi 100953361
+Zein Hajj-Ali 101020677
+Hussain Aljabri 100935515
+Ahmad Ayyoub 100954214
+Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform."/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
+	<link rel="stylesheet" href="https://zeinhajjali.com/css/style.min.e17a25802a5bbec7b5c368fdf0e55ed331a31cadbc95c1c0e7be9e9cf889b8fb.css" integrity="sha256-4XolgCpbvse1w2j98OVe0zGjHK28lcHA576enPiJuPs=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://zeinhajjali.com/">Zein Hajj-Ali</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					<a href="https://zeinhajjali.com/projects/">Projects</a>
+					<a href="https://zeinhajjali.com/blog/">Blog</a>
+					<a href="https://zeinhajjali.com/media/resume/ZeinHajjAli-Resume.pdf">Résumé</a>
+					<a href="https://zeinhajjali.com/about/">About</a>
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://www.linkedin.com/in/zeinhajjali/" target="_blank" rel="noopener" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a><a href="https://github.com/ZeinHajjAli" target="_blank" rel="noopener" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a><a href="mailto:zeinhajjali@outlook.com" target="_blank" rel="noopener" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a></span><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://zeinhajjali.com/projects/">Projects</a></li>
+			<li><a href="https://zeinhajjali.com/blog/">Blog</a></li>
+			<li><a href="https://zeinhajjali.com/media/resume/ZeinHajjAli-Resume.pdf">Résumé</a></li>
+			<li><a href="https://zeinhajjali.com/about/">About</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Feb 5, 2019</span></div>
+				<h1>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</h1>
+			</header>
+			<div class="content">
+				
+
+<p>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.</p>
+
+<hr />
+
+<p><img src="/media/GSBR1/header.jpg" alt="img" /></p>
+
+<h3 id="sysc-4805-computer-systems-design-lab">SYSC 4805 - Computer Systems Design Lab<a href="#sysc-4805-computer-systems-design-lab" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<h1 id="project-proposal"><strong>Project Proposal</strong><a href="#project-proposal" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h1>
+
+<h2 id="group-9">Group #9<a href="#group-9" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<h2 id="students">Students:<a href="#students" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Theo Hronowsky  101008637</p>
+
+<p>Emmanuel Oluyomi    100953361</p>
+
+<p>Zein Hajj-Ali   101020677</p>
+
+<p>Hussain Aljabri 100935515</p>
+
+<p>Ahmad Ayyoub    100954214</p>
+
+<h2 id="objectives">Objectives<a href="#objectives" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform. The system will contain various sensors and the associated software that processes sensor data and drives the robot to solve a task. The task that our robot will accomplish is self-balancing. The robot will use its motors to keep itself upright, without any other aid. If this is achieved, we will also be adding a simple line-following capability. This will be implemented using a real robot platform rather than using the simulation software, Vrep. Reasons as to why the group decided to build a physical robot rather than use the simulation software was that using a physical model of the robot would translate to real world application as well as produce a hands-on and interactive end product.</p>
+
+<h2 id="main-details">Main Details<a href="#main-details" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>We decided to build a robot that balances on it&#39;s two wheels using sensor input data, and the movement of the motors to correct itself and keep upright. Our lesser part of our project is the line following aspect which should be much simpler, and is of less importance than the self-balancing project.</p>
+
+<p>Since our project depends on the building of a self balancing robot, we require the use of a gyroscope. We chose to use a gyroscope rather than an accelerometer due to the fact that a gyroscope can detect rotation around a given axis. This will be useful for when we come to the stage of the project where we want to implement the line following aspect. We will also need to build a new base for our robot that is vertical and distributes the weight of all the components evenly along the middle of the robot. This way it will lessen the amount of work needed to be done by the arduino to calculate the values for the self balancing movements.</p>
+
+<p>Our project uses new sensors that were not included in the system such as a gyroscope and/or an accelerometer, as well as a whole new platform for the robot. The extra sensors we need will be sourced from Graham Eatherley and the platform will be designed custom for our project and will be 3D printed using the printers available on campus.</p>
+
+<p>We will be developing an algorithm to calculate the speed values needed for the motors to keep the robot upright. There are already some algorithms and programs found online that do the same job, but we will be using ideas from them to implement our own version specific to our project. We will also be developing a simple line following algorithm that uses the movement techniques from the self-balancing part of the project.</p>
+
+<p>We will be evaluating the success of our project by running tests on the practical performance. We will be testing the capability of keeping upright under four main conditions:</p>
+
+<ol>
+<li><p>Standing still or in place,</p></li>
+
+<li><p>Being pushed down lightly,</p></li>
+
+<li><p>While moving in a straight line, and</p></li>
+
+<li><p>While moving on a curved path or taking turns.</p></li>
+</ol>
+
+<p>These four tests will show the full capabilities of our self-balancing system. If completed successfully, we will also be testing the basic line-following implementation.</p>
+
+<p>The roles and strengths of each team member and the timeline for each stage of the project are discussed below in their respective sections.</p>
+
+<h2 id="team-members-amp-roles">Team Members &amp; Roles<a href="#team-members-amp-roles" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Group #9 consists of five 4th year computer systems engineering students. The group members are: Theo Hronowsky, Zein Hajj-Ali, Emmanuel Oluyomi, Hussain Aljabri and Ahmad Ayyoub. Each member will assume the role of the project manager and will have their own associated responsibilities.  The roles of each team member is split in a way that each member of the team will participate in all aspects of project planning, management and the design and development of the end solution.</p>
+
+<p>As 4th year computer system engineers, all group members have similar knowledge and experience. Experience such as embedded system design and various programming principles are a shared skill set between the team. Knowledge in microcontrollers and sensors have been acquired in previous projects and will be applied by all members. More so, all members of the group have extensive knowledge of various programming principles. That being said, the group will work as a team on all phases of the engineering design process, and as problems arise, will branch off, based on interests, to propose solutions.</p>
+
+<h3 id="proposed-tasks">Proposed Tasks:<a href="#proposed-tasks" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li><strong>Zein Hajj-Ali:</strong> Programming, Building Hardware, Developing testing scenarios</li>
+<li><strong>Theo Hronowsky:</strong> Sensor programming, assembling the robot/hardware, CAD design/3-D printing</li>
+<li><strong>Emmanuel Oluyomi:</strong> Coding of Arduino, 3-D printing, testing of program.</li>
+<li><strong>Hussain Aljabri:</strong> Hardware connections and Arduino programming.</li>
+<li><strong>Ahmad Ayyoub:</strong> Writing or testing the software needed to balance the robot or make it follow the line</li>
+</ul>
+
+<h2 id="project-planning-steps">Project Planning steps<a href="#project-planning-steps" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>The computer systems design lab project will be planned in a way that it is iterative. It will be planned using a variation of the engineering design process. The robot will be created through defining, planning, design, implementing and testing phases. The team will start working on the first iteration of the project after acquiring and checking all the necessary sensors and parts.</p>
+
+<p>First, the team members will collaborate to determine the needed hardware sensors that will be connected to the robot to accomplish the self-balancing and line following functionalities of the robot. For now, we know that we will need the gyroscope and accelerometer sensors to implement the functionalities. The second step is to connect these sensors with other sensors of the robot to make it move on the line. The next step is to test the sensors if they are working after we connect them with the robot.Then we proceed to writing or downloading the necessary software application code on arduino that will cause the sensors to work accordingly. Then we will need to check for any mistakes or variations from the robot. For example, we will test whether the robot is actually moving on the line while balancing itself and not falling off. In other words, we will do the integration testing of the software and hardware of the robot.We then combine the sensors and implement the required software code that will make it move in a line and balance itself at the same time. We&#39;ve organized a tentative schedule for the group to achieve the project objectives for structure.</p>
+
+<p>The tentative schedule for the group is as follows:</p>
+
+<table>
+<thead>
+<tr>
+<th><strong>Component</strong></th>
+<th><strong>Date</strong></th>
+<th><strong>Details</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Requirements Elicitation</strong></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Project topic choice &amp; planning</td>
+<td>Jan 25th - Feb 1st, 2019</td>
+<td>Choose topic and begin planning</td>
+</tr>
+
+<tr>
+<td>Project proposal</td>
+<td>Feb 1st 2019</td>
+<td>Brief description of the self balancing robot and platform chosen</td>
+</tr>
+
+<tr>
+<td><strong>Planning/Design</strong></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Project planning/design options</td>
+<td>Feb 1st - Feb 15th, 2019</td>
+<td>Consider the weight of the robot and figuring out a design to maintain balanced and begin planning.</td>
+</tr>
+
+<tr>
+<td>Acquire necessary hardware</td>
+<td>Feb 1st - Feb 15th, 2019</td>
+<td>We need Gyroscope and/or accelerometer.</td>
+</tr>
+
+<tr>
+<td><strong>Development/Implementation</strong></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Project implementation</td>
+<td>Feb 15th - Mar 1st, 2019</td>
+<td>Begin the implementation phase: Adding the sensors and composing the robot.</td>
+</tr>
+
+<tr>
+<td>Project progress report</td>
+<td>Mar. 3, 2019</td>
+<td>Description of the current progress</td>
+</tr>
+
+<tr>
+<td><strong>Testing &amp; Refinement</strong></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Testing and refinement</td>
+<td>Mar. 3rd - Mar. 21, 2019</td>
+<td>Test the first iteration of the completed robot, implement changes that improve performance.</td>
+</tr>
+
+<tr>
+<td>Final project presentation</td>
+<td>scheduled between Mar. 22 and Apr. 5, 2019</td>
+<td>Presentation that will cover chosen components, implementation, and other project specifics.</td>
+</tr>
+
+<tr>
+<td>Final project demonstration</td>
+<td>Apr. 5, 2019</td>
+<td>Presentation of the implementation of the physical robot.</td>
+</tr>
+
+<tr>
+<td>Peer review of individual contributions</td>
+<td>Mar. 29, 2019</td>
+<td>Each student will demonstrate their personal contributions throughout the semester.</td>
+</tr>
+
+<tr>
+<td>Robot kit return</td>
+<td>Apr. 9, 2019</td>
+<td>Robot kit is returned.</td>
+</tr>
+
+<tr>
+<td>Final Report</td>
+<td>Apr. 9, 2019</td>
+<td>An updated version of the progress report, and contains all the technical details of the project.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="risk-evaluation">Risk Evaluation<a href="#risk-evaluation" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>In any project, it can be expected that problems will arise. In order to minimize the impact of these setbacks, some considerations have been placed. This involves events that are uncertain to the group, and may have positive or negative effects on the project.</p>
+
+<p>These risks can be identified as:</p>
+
+<ul>
+<li>The event that a piece of hardware is broken or does not work to specification. <strong>Medium Risk, Medium Impact.</strong> Solution: Source a replacement part; Remove need for it using an alternative method.</li>
+<li>If hardware is not sourced locally, the chance that shipping time may not be within the timeline of this project. <strong>Low Risk, Low Impact.</strong> Solution: Order parts locally; Order parts early in the process.</li>
+<li>There might be latency delay from the sensors. <strong>Medium Risk, Low Impact.</strong> Solution: Account for delay in code; Don&#39;t use speed dependant processes.</li>
+<li>Readings from the sensors aren&#39;t accurate and precise. <strong>Medium Risk, Medium Impact.</strong> Solution: Order replacement sensors; Account for precision in code.</li>
+<li>Scope of the project is ill defined and needs to be redefined later on. <strong>Low Risk, Medium Impact.</strong> Solution: Redefine scope of project.</li>
+</ul>
+
+<p>Overall, the risk associated with the combination of the events is minimal in the sense that if these events occur, there are preventative measures or alternatives that can be considered.</p>
+
+<h2 id="project-cost-and-duration">Project Cost and Duration<a href="#project-cost-and-duration" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>The basic equipment that we will use for the robot&#39;s hardware configuration are borrowed from Carleton University, and other sensors hardware equipment might be purchased or borrowed from Graham Eatherley if needed and available. If these sensors are not available locally, we will need to purchase these components, which will come with a cost. However, often times these components are cheap and will not have a huge impact in terms of cost.  As stated in the tentative schedule, the basic equipments will be returned at the end of the semester. It is assumed that the duration of the project will last the whole semester with a functional product developed at the end of the term.</p>
+
+<h2 id="hardware-or-sensor-main-components">Hardware or sensor main components<a href="#hardware-or-sensor-main-components" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>These are the main sensors used in the robot and components:</p>
+
+<ul>
+<li><p>Gyroscope [^1]
+<img src="/media/GSBR1/gyro.jpg" alt="img" /></p></li>
+
+<li><p>Accelerometer [^2]
+<img src="/media/GSBR1/accel.jpg" alt="img" /></p></li>
+
+<li><p>Motor module [^3]
+<img src="/media/GSBR1/mmodule.jpg" alt="img" /></p></li>
+</ul>
+
+<p>This is the schematic sketch of what the robot will do when it starts to move to balance itself:</p>
+
+<p><img src="/media/GSBR1/schematic.jpg" alt="img" /></p>
+
+<p>Figure 1: Self-balancing problem [^4]</p>
+
+<hr />
+
+<h2 id="references">References<a href="#references" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>[^1] <em>Amazon.co.uk</em>, 2019. [Online]. Available: <a href="https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W">https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W</a>. [Accessed: 01- Feb- 2019].</p>
+
+<p>[^2] &quot;Gyro Sensor&quot;, <em>indiamart.com</em>, 2019. [Online]. Available: <a href="https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html">https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html</a>. [Accessed: 01- Feb- 2019].</p>
+
+<p>[^3] L. Contr, &quot;L9110S H-bridge Dual DC Stepper Motor Driver Contr | Arduino Robots &amp; electronics component in kabul afghanistan&quot;, <em>Nooraziz.com</em>, 2019. [Online]. Available: <a href="http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/">http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/</a>. [Accessed: 01- Feb- 2019].</p>
+
+<p>[^4] &quot;S15: Self-Balancing Robot - Embedded Systems Learning Academy&quot;, <em>Socialledge.com</em>, 2019. [Online]. Available: <a href="http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot">http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot</a>. [Accessed: 01- Feb- 2019].</p>
+
+<p><em>I do not own the Carleton University trademark or logo.</em></p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://zeinhajjali.com/tags/gsbr">GSBR</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/gyroscope">Gyroscope</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/design-lab">Design Lab</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/self-balancing">Self-Balancing</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/robot">Robot</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/arduino">Arduino</a></span><span class="tag"><a href="https://zeinhajjali.com/tags/ir-sensor">IR Sensor</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1805 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2019-02-05 00:00 -0500</p>
+			</footer>
+		</article>
+		<div class="post-nav thin">
+			<a class="next-post" href="https://zeinhajjali.com/projects/site1/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>&nbsp;Newer</span><br><span>SITE #1: Personal/Resume/Portfolio Website</span>
+			</a>
+			<a class="prev-post" href="https://zeinhajjali.com/projects/nnsi1/">
+				<span class="post-nav-label">Older&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>NNSI #1: Northern Nomad Systems Integration Project</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://zeinhajjali.com/">Zein Hajj-Ali</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a> &#183; <a href="https://zeinhajjali.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://zeinhajjali.com/js/main.min.8f39f24808e9d0a9b02da58c2d2838da859dc0b7bdfadbdb1883aae8b6adacfe.js" integrity="sha256-jznySAjp0KmwLaWMLSg42oWdwLe9+tvbGIOq6LatrP4="></script>
+
+</body>
+
+</html>

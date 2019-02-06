@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/projects/gsbr1/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/about/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/arduino/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,8 +89,26 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/design-lab/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/film/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/gsbr/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/gyroscope/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,6 +121,12 @@
   <url>
     <loc>https://zeinhajjali.com/tags/ideas/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/ir-sensor/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,6 +179,18 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/robot/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/self-balancing/</loc>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/site/</loc>
     <lastmod>2019-02-05T07:00:00-05:00</lastmod>
     <priority>0</priority>
@@ -175,7 +216,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   

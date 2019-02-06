@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arduino on Zein Hajj-Ali</title>
-    <link>https://zeinhajjali.com/tags/arduino/</link>
-    <description>Recent content in Arduino on Zein Hajj-Ali</description>
+    <title>Ir Sensor on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/tags/ir-sensor/</link>
+    <description>Recent content in Ir Sensor on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:01 -0500</lastBuildDate>
     
-	<atom:link href="https://zeinhajjali.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeinhajjali.com/tags/ir-sensor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -25,16 +25,6 @@ Zein Hajj-Ali 101020677
 Hussain Aljabri 100935515
 Ahmad Ayyoub 100954214
 Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
-    </item>
-    
-    <item>
-      <title>Arduino Project Ideas</title>
-      <link>https://zeinhajjali.com/blog/arduinoprojectideas/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/arduinoprojectideas/</guid>
-      <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
- Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
     </item>
     
   </channel>

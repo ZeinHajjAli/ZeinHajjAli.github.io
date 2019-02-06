@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Arduino</title>
       <link>https://zeinhajjali.com/tags/arduino/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
       
       <guid>https://zeinhajjali.com/tags/arduino/</guid>
       <description></description>
@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>Design Lab</title>
+      <link>https://zeinhajjali.com/tags/design-lab/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/design-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Film</title>
       <link>https://zeinhajjali.com/tags/film/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
@@ -67,38 +76,29 @@
     </item>
     
     <item>
+      <title>Gsbr</title>
+      <link>https://zeinhajjali.com/tags/gsbr/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/gsbr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyroscope</title>
+      <link>https://zeinhajjali.com/tags/gyroscope/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/gyroscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>https://zeinhajjali.com/tags/hugo/</link>
       <pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
       
       <guid>https://zeinhajjali.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ideas</title>
-      <link>https://zeinhajjali.com/tags/ideas/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/ideas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nnsi</title>
-      <link>https://zeinhajjali.com/tags/nnsi/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/nnsi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nomad</title>
-      <link>https://zeinhajjali.com/tags/nomad/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/nomad/</guid>
       <description></description>
     </item>
     
