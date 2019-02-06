@@ -7,28 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 07:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SITE #1: Personal/Resume/Portfolio Website</title>
-      <link>https://zeinhajjali.com/projects/site1/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site1/</guid>
-      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-    </item>
-    
-    <item>
       <title>SITE #2: Fixed the Domain Issue</title>
       <link>https://zeinhajjali.com/projects/site2/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
       
       <guid>https://zeinhajjali.com/projects/site2/</guid>
       <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
 As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
+    </item>
+    
+    <item>
+      <title>SITE #1: Personal/Resume/Portfolio Website</title>
+      <link>https://zeinhajjali.com/projects/site1/</link>
+      <pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site1/</guid>
+      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
     </item>
     
     <item>
@@ -44,10 +44,10 @@ You can contact me using any of the following:</description>
     
     <item>
       <title>Arduino Project Ideas</title>
-      <link>https://zeinhajjali.com/posts/arduinoprojectideas/</link>
+      <link>https://zeinhajjali.com/blog/arduinoprojectideas/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/posts/arduinoprojectideas/</guid>
+      <guid>https://zeinhajjali.com/blog/arduinoprojectideas/</guid>
       <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
  Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
     </item>
@@ -63,29 +63,29 @@ You can contact me using any of the following:</description>
     
     <item>
       <title>Misconception</title>
-      <link>https://zeinhajjali.com/posts/misconception/</link>
+      <link>https://zeinhajjali.com/blog/misconception/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/posts/misconception/</guid>
+      <guid>https://zeinhajjali.com/blog/misconception/</guid>
       <description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
  Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
     </item>
     
     <item>
       <title>Only the Best From NYC</title>
-      <link>https://zeinhajjali.com/posts/nycpics/</link>
+      <link>https://zeinhajjali.com/blog/nycpics/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/posts/nycpics/</guid>
+      <guid>https://zeinhajjali.com/blog/nycpics/</guid>
       <description>flickr page</description>
     </item>
     
     <item>
       <title>I am Not Artistic</title>
-      <link>https://zeinhajjali.com/posts/artistic/</link>
+      <link>https://zeinhajjali.com/blog/artistic/</link>
       <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/posts/artistic/</guid>
+      <guid>https://zeinhajjali.com/blog/artistic/</guid>
       <description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
     </item>
     

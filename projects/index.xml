@@ -1,44 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Zein Hajj-Ali</title>
-    <link>https://zeinhajjali.com/projects/</link>
-    <description>Recent content in Projects on Zein Hajj-Ali</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>SITE #1: Personal/Resume/Portfolio Website</title>
-      <link>https://zeinhajjali.com/projects/site1/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site1/</guid>
-      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-    </item>
-    
-    <item>
-      <title>SITE #2: Fixed the Domain Issue</title>
-      <link>https://zeinhajjali.com/projects/site2/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site2/</guid>
-      <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
+	<channel>
+		<title>Projects on Zein Hajj-Ali</title>
+		<link>https://zeinhajjali.com/projects/</link>
+		<description>Recent content in Projects on Zein Hajj-Ali</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 05 Feb 2019 07:00:00 -0500</lastBuildDate>
+		<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>SITE #2: Fixed the Domain Issue</title>
+			<link>https://zeinhajjali.com/projects/site2/</link>
+			<pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/site2/</guid>
+			<description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
 As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
-    </item>
-    
-    <item>
-      <title>NNSI #1: Northern Nomad Systems Integration Project</title>
-      <link>https://zeinhajjali.com/projects/nnsi1/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/nnsi1/</guid>
-      <description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
-    </item>
-    
-  </channel>
+			<content type="html"><![CDATA[
+
+<p>As it turns out, the HTTPS issue <strong>was</strong> because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.</p>
+
+<p>As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.toml’ file as the *.github.io domain. I changed it to my custom domain and pushed, and the CSS loaded fine.</p>
+
+<hr />
+
+<h2 id="on-to-bigger-things">On to bigger things.</h2>
+]]></content>
+		</item>
+		
+		<item>
+			<title>SITE #1: Personal/Resume/Portfolio Website</title>
+			<link>https://zeinhajjali.com/projects/site1/</link>
+			<pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/site1/</guid>
+			<description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+			<content type="html"><![CDATA[
+
+<h2 id="purpose">Purpose</h2>
+
+<p>I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</p>
+
+<h2 id="technologies-and-workflow">Technologies and Workflow</h2>
+
+<p>The site is built using the Hugo static site generator found at <a href="https://gohugo.io">goHugo.io</a>.  Hugo comes as a single executable that you run to generate all the required files. It builds a simple folder structure and after writing up some pages/posts in markdown, you can run the executable to generate the static site in HTML. You can easily add themes, many of which can be found on a section on their site. This is a godsend for me since I have little to no artistic ability. My site uses a theme called Hermit that is as minimally cluttered as possible. To set up the start page and any metadata, all that’s needed is a little knowledge in either TOML, YAML, or JSON, all of which are simple enough to get the hang of for any beginner. After setting up my start and about pages, I wrote my prior blog posts in markdown, and linked my resume as a download.</p>
+
+<p>My personal workflow for this site is very simple. I have two Github repos: one for my actual site at <a href="https://github.com/zeinhajjali/zeinhajjali.github.io">ZeinHajjAli.github.io</a>, and one for my build tools, setup directory, and general purpose administration files at <a href="https://github.com/zeinhajjali/HugoBuild">HugoBuild</a>. I have set up the ‘public’ folder in HugoBuild to point to the site rep as the remote Master. I make any changes needed, specifically writing new blog/project posts and place them in their respective ‘content’ subfolders. I can then test to see how everything looks by running the Hugo server locally and navigating to the localhost:1313. I then run Hugo without any arguments, which builds the site and saves it in the ‘public’ folder. Then I add, commit, and push the changes in the ‘public’ folder if everything works correctly. This automatically pushes to my site repo which updates the site. I then do the same to the parent HugoBuild repo to save my raw changes as well.</p>
+
+<h2 id="problems-and-moving-forward">Problems and Moving Forward</h2>
+
+<p>I had bought the domain ‘zeinhajjali.com’ in 2017, but I recently moved registrars to NameSilo.com. It seemed cheaper and I am working on getting the redirect working at the moment. I ran into a problem earlier when I was still registered with Dynadot in that the HTTPS certificate check kept getting rejected. I assume this is a registrar problem since when running the site with the original *.github.io domain I did not encounter this error.</p>
+
+<p>Going forward I will hopefully have the domain name problem sorted out, I will also be slightly beautifying the site. I hope to commission a logo, one that I can use both on the homepage, as a favicon, and in general in a business setting. If I put up enough posts I might end up wanting to custom make a theme instead of using one that I found online. I will also be working on making this site the first result when Googling my name. Right now my Facebook page comes up first, then my LinkedIn, then my Instagram, and finally this page (or at least the zeinhajjali.com domain). SEO is a whole other project to get into though.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>NNSI #1: Northern Nomad Systems Integration Project</title>
+			<link>https://zeinhajjali.com/projects/nnsi1/</link>
+			<pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/nnsi1/</guid>
+			<description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
+			<content type="html"><![CDATA[
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus. Our main task was to connect all the smart devices together and have a centralized way to read and modify them.</p>
+
+<h2 id="setbacks-and-pivot">Setbacks and Pivot</h2>
+
+<p>As soon as we started research on the project, we found that although the original team that built the house had done a fine job, they neglected to have a central wiki or documentation. This meant that we ping-ponged from email to email to try and compile the needed information.</p>
+
+<p>We found that a lot of the systems could not directly communicate with each other and many required an internet connection to communicate with proprietary servers. This did not mesh well with the standalone ideology of the Nomad. We decided to first tackle the 28 SMT wall sensors which recorded temperature, humidity, and moisture levels. The sensors were placed in the walls where there was also installed a new type of insulation. Part of the Nomad&rsquo;s purpose was to research new sustainable technologies. The sensors were used to collect data to be used by graduate students on the performance of the insulation.</p>
+
+<p>The sensors were hardwired into data loggers that were made by SMT as well. The would connect to a wireless interface device that could only be used on a Windows pc. Our project asked us to do away with the need of a pc or laptop in the house and so we tried using WINE coupled with ExaGear on a Raspberry Pi to emulate the Windows environment for the purposes of running the SMT data collection software. We kept running into an error that we couldn&rsquo;t solve so we needed to find a way around the interface device and the loggers in the first place.</p>
+
+<p>We decided to hardwire the sensors into our own interface device. We did some research and found the (probably common) ESP8266 NodeMCU device. We will be ordering an ESP8266 preinstalled on a development board, as well as four 8:1 multiplexers and one 4:1 multiplexer to connect the 28 sensors to the one analog pin on the development board. We will then need to write the code to convert the raw values using manufacturer formulas, and send them to our Raspberry Pi. The Pi will compile the data into a format readable by both humans and the software SMT provides to read from the loggers. This allows the graduate students to continue without disrupting their workflow, but also allows us to expand on the capabilities of the sensors.</p>
+
+<hr />
+
+<p>Unfortunately, this was the first update/post about this project, so some details are left out, but a Github page will be coming soon. I will be trying to update more often so that I can cover all relevant details.</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
