@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 07:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
+      <link>https://zeinhajjali.com/projects/gsbr1/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
+      <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
+SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
+Emmanuel Oluyomi 100953361
+Zein Hajj-Ali 101020677
+Hussain Aljabri 100935515
+Ahmad Ayyoub 100954214
+Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
+    </item>
     
     <item>
       <title>SITE #2: Fixed the Domain Issue</title>
@@ -29,21 +44,6 @@ As for the CSS not loading after switching my Github site repository to redirect
       
       <guid>https://zeinhajjali.com/projects/site1/</guid>
       <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-    </item>
-    
-    <item>
-      <title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
-      <link>https://zeinhajjali.com/projects/gsbr1/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
-      <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
-SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
-Emmanuel Oluyomi 100953361
-Zein Hajj-Ali 101020677
-Hussain Aljabri 100935515
-Ahmad Ayyoub 100954214
-Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
     </item>
     
     <item>

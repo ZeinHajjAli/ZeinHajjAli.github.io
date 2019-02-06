@@ -7,60 +7,13 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 05 Feb 2019 07:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Wed, 06 Feb 2019 00:00:01 -0500</lastBuildDate>
 		<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>SITE #2: Fixed the Domain Issue</title>
-			<link>https://zeinhajjali.com/projects/site2/</link>
-			<pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/site2/</guid>
-			<description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
-As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
-			<content type="html"><![CDATA[
-
-<p>As it turns out, the HTTPS issue <strong>was</strong> because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.</p>
-
-<p>As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.toml’ file as the *.github.io domain. I changed it to my custom domain and pushed, and the CSS loaded fine.</p>
-
-<hr />
-
-<h2 id="on-to-bigger-things">On to bigger things.</h2>
-]]></content>
-		</item>
-		
-		<item>
-			<title>SITE #1: Personal/Resume/Portfolio Website</title>
-			<link>https://zeinhajjali.com/projects/site1/</link>
-			<pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/site1/</guid>
-			<description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="purpose">Purpose</h2>
-
-<p>I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</p>
-
-<h2 id="technologies-and-workflow">Technologies and Workflow</h2>
-
-<p>The site is built using the Hugo static site generator found at <a href="https://gohugo.io">goHugo.io</a>.  Hugo comes as a single executable that you run to generate all the required files. It builds a simple folder structure and after writing up some pages/posts in markdown, you can run the executable to generate the static site in HTML. You can easily add themes, many of which can be found on a section on their site. This is a godsend for me since I have little to no artistic ability. My site uses a theme called Hermit that is as minimally cluttered as possible. To set up the start page and any metadata, all that’s needed is a little knowledge in either TOML, YAML, or JSON, all of which are simple enough to get the hang of for any beginner. After setting up my start and about pages, I wrote my prior blog posts in markdown, and linked my resume as a download.</p>
-
-<p>My personal workflow for this site is very simple. I have two Github repos: one for my actual site at <a href="https://github.com/zeinhajjali/zeinhajjali.github.io">ZeinHajjAli.github.io</a>, and one for my build tools, setup directory, and general purpose administration files at <a href="https://github.com/zeinhajjali/HugoBuild">HugoBuild</a>. I have set up the ‘public’ folder in HugoBuild to point to the site rep as the remote Master. I make any changes needed, specifically writing new blog/project posts and place them in their respective ‘content’ subfolders. I can then test to see how everything looks by running the Hugo server locally and navigating to the localhost:1313. I then run Hugo without any arguments, which builds the site and saves it in the ‘public’ folder. Then I add, commit, and push the changes in the ‘public’ folder if everything works correctly. This automatically pushes to my site repo which updates the site. I then do the same to the parent HugoBuild repo to save my raw changes as well.</p>
-
-<h2 id="problems-and-moving-forward">Problems and Moving Forward</h2>
-
-<p>I had bought the domain ‘zeinhajjali.com’ in 2017, but I recently moved registrars to NameSilo.com. It seemed cheaper and I am working on getting the redirect working at the moment. I ran into a problem earlier when I was still registered with Dynadot in that the HTTPS certificate check kept getting rejected. I assume this is a registrar problem since when running the site with the original *.github.io domain I did not encounter this error.</p>
-
-<p>Going forward I will hopefully have the domain name problem sorted out, I will also be slightly beautifying the site. I hope to commission a logo, one that I can use both on the homepage, as a favicon, and in general in a business setting. If I put up enough posts I might end up wanting to custom make a theme instead of using one that I found online. I will also be working on making this site the first result when Googling my name. Right now my Facebook page comes up first, then my LinkedIn, then my Instagram, and finally this page (or at least the zeinhajjali.com domain). SEO is a whole other project to get into though.</p>
-]]></content>
-		</item>
 		
 		<item>
 			<title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
 			<link>https://zeinhajjali.com/projects/gsbr1/</link>
-			<pubDate>Tue, 05 Feb 2019 00:00:01 -0500</pubDate>
+			<pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
 			
 			<guid>https://zeinhajjali.com/projects/gsbr1/</guid>
 			<description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all my work again. This proposal was in collaberation with the team memebers mentioned below.
@@ -312,6 +265,53 @@ Objectives The goal of the computer systems design lab as part of the SYSC 4805 
 <p>[^4] &quot;S15: Self-Balancing Robot - Embedded Systems Learning Academy&quot;, <em>Socialledge.com</em>, 2019. [Online]. Available: <a href="http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot">http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot</a>. [Accessed: 01- Feb- 2019].</p>
 
 <p><em>I do not own the Carleton University trademark or logo.</em></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>SITE #2: Fixed the Domain Issue</title>
+			<link>https://zeinhajjali.com/projects/site2/</link>
+			<pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/site2/</guid>
+			<description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
+As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
+			<content type="html"><![CDATA[
+
+<p>As it turns out, the HTTPS issue <strong>was</strong> because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.</p>
+
+<p>As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.toml’ file as the *.github.io domain. I changed it to my custom domain and pushed, and the CSS loaded fine.</p>
+
+<hr />
+
+<h2 id="on-to-bigger-things">On to bigger things.</h2>
+]]></content>
+		</item>
+		
+		<item>
+			<title>SITE #1: Personal/Resume/Portfolio Website</title>
+			<link>https://zeinhajjali.com/projects/site1/</link>
+			<pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/site1/</guid>
+			<description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+			<content type="html"><![CDATA[
+
+<h2 id="purpose">Purpose</h2>
+
+<p>I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</p>
+
+<h2 id="technologies-and-workflow">Technologies and Workflow</h2>
+
+<p>The site is built using the Hugo static site generator found at <a href="https://gohugo.io">goHugo.io</a>.  Hugo comes as a single executable that you run to generate all the required files. It builds a simple folder structure and after writing up some pages/posts in markdown, you can run the executable to generate the static site in HTML. You can easily add themes, many of which can be found on a section on their site. This is a godsend for me since I have little to no artistic ability. My site uses a theme called Hermit that is as minimally cluttered as possible. To set up the start page and any metadata, all that’s needed is a little knowledge in either TOML, YAML, or JSON, all of which are simple enough to get the hang of for any beginner. After setting up my start and about pages, I wrote my prior blog posts in markdown, and linked my resume as a download.</p>
+
+<p>My personal workflow for this site is very simple. I have two Github repos: one for my actual site at <a href="https://github.com/zeinhajjali/zeinhajjali.github.io">ZeinHajjAli.github.io</a>, and one for my build tools, setup directory, and general purpose administration files at <a href="https://github.com/zeinhajjali/HugoBuild">HugoBuild</a>. I have set up the ‘public’ folder in HugoBuild to point to the site rep as the remote Master. I make any changes needed, specifically writing new blog/project posts and place them in their respective ‘content’ subfolders. I can then test to see how everything looks by running the Hugo server locally and navigating to the localhost:1313. I then run Hugo without any arguments, which builds the site and saves it in the ‘public’ folder. Then I add, commit, and push the changes in the ‘public’ folder if everything works correctly. This automatically pushes to my site repo which updates the site. I then do the same to the parent HugoBuild repo to save my raw changes as well.</p>
+
+<h2 id="problems-and-moving-forward">Problems and Moving Forward</h2>
+
+<p>I had bought the domain ‘zeinhajjali.com’ in 2017, but I recently moved registrars to NameSilo.com. It seemed cheaper and I am working on getting the redirect working at the moment. I ran into a problem earlier when I was still registered with Dynadot in that the HTTPS certificate check kept getting rejected. I assume this is a registrar problem since when running the site with the original *.github.io domain I did not encounter this error.</p>
+
+<p>Going forward I will hopefully have the domain name problem sorted out, I will also be slightly beautifying the site. I hope to commission a logo, one that I can use both on the homepage, as a favicon, and in general in a business setting. If I put up enough posts I might end up wanting to custom make a theme instead of using one that I found online. I will also be working on making this site the first result when Googling my name. Right now my Facebook page comes up first, then my LinkedIn, then my Instagram, and finally this page (or at least the zeinhajjali.com domain). SEO is a whole other project to get into though.</p>
 ]]></content>
 		</item>
 		

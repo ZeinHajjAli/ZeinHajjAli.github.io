@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zeinhajjali.com/projects/gsbr1/</loc>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/projects/site2/</loc>
     <lastmod>2019-02-05T07:00:00-05:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://zeinhajjali.com/projects/site1/</loc>
     <lastmod>2019-02-05T01:30:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeinhajjali.com/projects/gsbr1/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/arduino/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +90,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/design-lab/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,13 +102,13 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/gsbr/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/gyroscope/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,7 +126,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/ir-sensor/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,19 +174,19 @@
   
   <url>
     <loc>https://zeinhajjali.com/projects/</loc>
-    <lastmod>2019-02-05T07:00:00-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/robot/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/self-balancing/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -216,7 +216,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/</loc>
-    <lastmod>2019-02-05T00:00:01-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -252,7 +252,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/</loc>
-    <lastmod>2019-02-05T07:00:00-05:00</lastmod>
+    <lastmod>2019-02-06T00:00:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
