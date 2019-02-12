@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robot on Zein Hajj-Ali</title>
-    <link>https://zeinhajjali.com/tags/robot/</link>
-    <description>Recent content in Robot on Zein Hajj-Ali</description>
+    <title>Line Following on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/tags/line-following/</link>
+    <description>Recent content in Line Following on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 11 Feb 2019 20:25:00 -0500</lastBuildDate>
     
-	<atom:link href="https://zeinhajjali.com/tags/robot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeinhajjali.com/tags/line-following/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,21 +20,6 @@
       <guid>https://zeinhajjali.com/projects/gsbr2/</guid>
       <description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
 Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
-    </item>
-    
-    <item>
-      <title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
-      <link>https://zeinhajjali.com/projects/gsbr1/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
-      <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.
-SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
-Emmanuel Oluyomi 100953361
-Zein Hajj-Ali 101020677
-Hussain Aljabri 100935515
-Ahmad Ayyoub 100954214
-Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
     </item>
     
   </channel>
