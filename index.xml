@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 20:25:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSBR #3: Final Update and Conclusion</title>
+      <link>https://zeinhajjali.com/projects/gsbr3/</link>
+      <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr3/</guid>
+      <description>Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values.</description>
+    </item>
     
     <item>
       <title>GSBR #2: Components and Splitting Tasks</title>
@@ -103,15 +112,6 @@ You can contact me using any of the following:</description>
       
       <guid>https://zeinhajjali.com/blog/nycpics/</guid>
       <description>flickr page</description>
-    </item>
-    
-    <item>
-      <title>I am Not Artistic</title>
-      <link>https://zeinhajjali.com/blog/artistic/</link>
-      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/artistic/</guid>
-      <description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
     </item>
     
   </channel>

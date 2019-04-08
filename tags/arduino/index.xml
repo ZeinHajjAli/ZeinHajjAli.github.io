@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 20:25:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSBR #3: Final Update and Conclusion</title>
+      <link>https://zeinhajjali.com/projects/gsbr3/</link>
+      <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr3/</guid>
+      <description>Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values.</description>
+    </item>
     
     <item>
       <title>GSBR #2: Components and Splitting Tasks</title>
