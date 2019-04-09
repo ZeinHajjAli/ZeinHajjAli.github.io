@@ -7,8 +7,33 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Apr 2019 21:45:09 +0000</lastBuildDate>
 		<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>NNSI #2: Final Update &amp; Conclusion</title>
+			<link>https://zeinhajjali.com/projects/nnsi2/</link>
+			<pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+			
+			<guid>https://zeinhajjali.com/projects/nnsi2/</guid>
+			<description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
+			<content type="html"><![CDATA[
+
+<p><DIV align="justify"></p>
+
+<p>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad. A Github page was proposed, but there is not enough code to warrant a repository. A report, written by the NNSI team and edited by our supervisor, Professor Donald Bailey P.Eng., would be more appropriate. The report will be up as another post like this one within 24 hours.</p>
+
+<p></DIV></p>
+
+<hr />
+
+<blockquote>
+<h2 id="so-it-goes">So it goes.</h2>
+
+<p>-Vonnegut</p>
+</blockquote>
+]]></content>
+		</item>
 		
 		<item>
 			<title>GSBR #3: Final Update and Conclusion</title>

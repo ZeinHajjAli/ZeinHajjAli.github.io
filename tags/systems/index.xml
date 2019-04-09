@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 21:45:09 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/systems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NNSI #2: Final Update &amp; Conclusion</title>
+      <link>https://zeinhajjali.com/projects/nnsi2/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi2/</guid>
+      <description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
+    </item>
     
     <item>
       <title>NNSI #1: Northern Nomad Systems Integration Project</title>

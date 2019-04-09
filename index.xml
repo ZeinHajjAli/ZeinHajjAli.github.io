@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 21:45:09 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NNSI #2: Final Update &amp; Conclusion</title>
+      <link>https://zeinhajjali.com/projects/nnsi2/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi2/</guid>
+      <description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
+    </item>
     
     <item>
       <title>GSBR #3: Final Update and Conclusion</title>
@@ -103,15 +112,6 @@ You can contact me using any of the following:</description>
       <guid>https://zeinhajjali.com/blog/misconception/</guid>
       <description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
  Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
-    </item>
-    
-    <item>
-      <title>Only the Best From NYC</title>
-      <link>https://zeinhajjali.com/blog/nycpics/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/nycpics/</guid>
-      <description>flickr page</description>
     </item>
     
   </channel>
