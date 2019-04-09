@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 10:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/robot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
+      <link>https://zeinhajjali.com/projects/gsbr/</link>
+      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr/</guid>
+      <description>Not W A L L-E
+  The Gyroscope Self-Balancing Robot (GSBR) project has ended. Previous posts on the progress and results can be found on this site. A more detailed and better edited look at the project can be found in the final report that the team has written up here or as a download here. The source code and testing code can all be found at the Github page here.</description>
+    </item>
     
     <item>
       <title>GSBR #3: Final Update and Conclusion</title>

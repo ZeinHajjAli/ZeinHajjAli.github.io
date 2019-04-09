@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zeinhajjali.com/projects/gsbr/</loc>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/projects/nnsi2/</loc>
     <lastmod>2019-04-08T21:45:09+00:00</lastmod>
   </url>
@@ -69,25 +74,25 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/3d/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/3d-printing/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/adafruit/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/arduino/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +116,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/bno055/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,7 +134,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/design-lab/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,14 +145,20 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/final/</loc>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/gsbr/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/gyroscope/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -194,6 +205,12 @@
   </url>
   
   <url>
+    <loc>https://zeinhajjali.com/tags/pdf/</loc>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zeinhajjali.com/tags/photography/</loc>
     <lastmod>2017-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -219,19 +236,25 @@
   
   <url>
     <loc>https://zeinhajjali.com/projects/</loc>
-    <lastmod>2019-04-08T21:45:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeinhajjali.com/tags/report/</loc>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/robot/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeinhajjali.com/tags/self-balancing/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,7 +284,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/tags/</loc>
-    <lastmod>2019-04-08T18:52:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -297,7 +320,7 @@
   
   <url>
     <loc>https://zeinhajjali.com/</loc>
-    <lastmod>2019-04-08T21:45:09+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
