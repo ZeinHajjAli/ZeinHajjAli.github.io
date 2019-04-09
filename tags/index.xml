@@ -7,13 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 18:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 21:45:09 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>3d</title>
+      <title>NNSI</title>
+      <link>https://zeinhajjali.com/tags/nnsi/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/nnsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carleton</title>
+      <link>https://zeinhajjali.com/tags/carleton/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/carleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nomad</title>
+      <link>https://zeinhajjali.com/tags/nomad/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/nomad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://zeinhajjali.com/tags/project/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems</title>
+      <link>https://zeinhajjali.com/tags/systems/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D</title>
       <link>https://zeinhajjali.com/tags/3d/</link>
       <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
       
@@ -22,7 +67,7 @@
     </item>
     
     <item>
-      <title>3d Printing</title>
+      <title>3D Printing</title>
       <link>https://zeinhajjali.com/tags/3d-printing/</link>
       <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
       
@@ -49,56 +94,11 @@
     </item>
     
     <item>
-      <title>Arm</title>
-      <link>https://zeinhajjali.com/tags/arm/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/arm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artistic</title>
-      <link>https://zeinhajjali.com/tags/artistic/</link>
-      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/artistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bno055</title>
+      <title>BNO055</title>
       <link>https://zeinhajjali.com/tags/bno055/</link>
       <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
       
       <guid>https://zeinhajjali.com/tags/bno055/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camera</title>
-      <link>https://zeinhajjali.com/tags/camera/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carleton</title>
-      <link>https://zeinhajjali.com/tags/carleton/</link>
-      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/carleton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Lab</title>
-      <link>https://zeinhajjali.com/tags/design-lab/</link>
-      <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/design-lab/</guid>
       <description></description>
     </item>
     
