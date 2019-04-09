@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 13:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NNSI: Northern Nomad Systems Integration Final Report</title>
+      <link>https://zeinhajjali.com/projects/nnsi/</link>
+      <pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi/</guid>
+      <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
+Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
+    </item>
     
     <item>
       <title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
@@ -102,15 +112,6 @@ You can contact me using any of the following:</description>
       <guid>https://zeinhajjali.com/blog/arduinoprojectideas/</guid>
       <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
  Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
-    </item>
-    
-    <item>
-      <title>NNSI #1: Northern Nomad Systems Integration Project</title>
-      <link>https://zeinhajjali.com/projects/nnsi1/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/nnsi1/</guid>
-      <description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
     </item>
     
   </channel>

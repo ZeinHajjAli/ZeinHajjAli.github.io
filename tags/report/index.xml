@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 13:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/report/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NNSI: Northern Nomad Systems Integration Final Report</title>
+      <link>https://zeinhajjali.com/projects/nnsi/</link>
+      <pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi/</guid>
+      <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
+Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
+    </item>
     
     <item>
       <title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
