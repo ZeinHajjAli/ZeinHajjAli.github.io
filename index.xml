@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 13:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Hundred-Page Machine Learning Book by Andriy Burkov</title>
+      <link>https://zeinhajjali.com/blog/machinelearning/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/blog/machinelearning/</guid>
+      <description>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &amp;lsquo;The Hundred-Page Machine Learning Book&amp;rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&amp;rsquo;ve been very interested in since I heard about it.</description>
+    </item>
     
     <item>
       <title>NNSI: Northern Nomad Systems Integration Final Report</title>
@@ -102,16 +111,6 @@ As for the CSS not loading after switching my Github site repository to redirect
       <description>Hey,
 Welcome to my tiny site. I&amp;rsquo;m a Computer Systems Undergraduate at Carleton University expected to graduate in December 2019. This site is just a way for me to keep a public log of my projects, no matter their nature. I hope to be updating whenever something worth posting about comes up but I might end up with a backlog of posts that I want to get to.
 You can contact me using any of the following:</description>
-    </item>
-    
-    <item>
-      <title>Arduino Project Ideas</title>
-      <link>https://zeinhajjali.com/blog/arduinoprojectideas/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/arduinoprojectideas/</guid>
-      <description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
- Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
     </item>
     
   </channel>
