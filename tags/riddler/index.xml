@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riddler on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/tags/riddler/</link>
+    <description>Recent content in Riddler on Zein Hajj-Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 14 Sep 2019 16:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zeinhajjali.com/tags/riddler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RIDD #1: FiveThirtyEight - The Riddler - “Dakota Jones”</title>
+      <link>https://zeinhajjali.com/projects/ridd1/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/ridd1/</guid>
+      <description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;rdquo;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
+    </item>
+    
+  </channel>
+</rss>

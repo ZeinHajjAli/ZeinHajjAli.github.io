@@ -2,116 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zein Hajj-Ali</title>
-    <link>https://zeinhajjali.com/</link>
+    <link>https://zeinhajjali.com/index.html</link>
     <description>Recent content on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Hundred-Page Machine Learning Book by Andriy Burkov</title>
-      <link>https://zeinhajjali.com/blog/machinelearning/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/machinelearning/</guid>
-      <description>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &amp;lsquo;The Hundred-Page Machine Learning Book&amp;rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&amp;rsquo;ve been very interested in since I heard about it.</description>
-    </item>
-    
-    <item>
-      <title>NNSI: Northern Nomad Systems Integration Final Report</title>
-      <link>https://zeinhajjali.com/projects/nnsi/</link>
-      <pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/nnsi/</guid>
-      <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
-Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
-    </item>
-    
-    <item>
-      <title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
-      <link>https://zeinhajjali.com/projects/gsbr/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr/</guid>
-      <description>The Gyroscope Self-Balancing Robot (GSBR) project has ended. Previous posts on the progress and results can be found on this site. A more detailed and better edited look at the project can be found in the final report that the team has written up here or as a download here. The source code and testing code can all be found at the Github page here.</description>
-    </item>
-    
-    <item>
-      <title>NNSI #2: Final Update &amp; Conclusion</title>
-      <link>https://zeinhajjali.com/projects/nnsi2/</link>
-      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/nnsi2/</guid>
-      <description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
-    </item>
-    
-    <item>
-      <title>GSBR #3: Final Update and Conclusion</title>
-      <link>https://zeinhajjali.com/projects/gsbr3/</link>
-      <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr3/</guid>
-      <description>Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values.</description>
-    </item>
-    
-    <item>
-      <title>GSBR #2: Components and Splitting Tasks</title>
-      <link>https://zeinhajjali.com/projects/gsbr2/</link>
-      <pubDate>Mon, 11 Feb 2019 20:25:00 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr2/</guid>
-      <description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
-Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
-    </item>
-    
-    <item>
-      <title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
-      <link>https://zeinhajjali.com/projects/gsbr1/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
-      <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.
-SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
-Emmanuel Oluyomi 100953361
-Zein Hajj-Ali 101020677
-Hussain Aljabri 100935515
-Ahmad Ayyoub 100954214
-Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
-    </item>
-    
-    <item>
-      <title>SITE #2: Fixed the Domain Issue</title>
-      <link>https://zeinhajjali.com/projects/site2/</link>
-      <pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site2/</guid>
-      <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
-As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
-    </item>
-    
-    <item>
-      <title>SITE #1: Personal/Resume/Portfolio Website</title>
-      <link>https://zeinhajjali.com/projects/site1/</link>
-      <pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site1/</guid>
-      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zeinhajjali.com/about/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/about/</guid>
-      <description>Hey,
-Welcome to my tiny site. I&amp;rsquo;m a Computer Systems Undergraduate at Carleton University expected to graduate in December 2019. This site is just a way for me to keep a public log of my projects, no matter their nature. I hope to be updating whenever something worth posting about comes up but I might end up with a backlog of posts that I want to get to.
-You can contact me using any of the following:</description>
-    </item>
     
   </channel>
 </rss>

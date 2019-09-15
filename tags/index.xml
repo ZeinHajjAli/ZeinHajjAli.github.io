@@ -7,80 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2019 16:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>3d</title>
-      <link>https://zeinhajjali.com/tags/3d/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>538</title>
+      <link>https://zeinhajjali.com/tags/538/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/3d/</guid>
+      <guid>https://zeinhajjali.com/tags/538/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>3d Printing</title>
-      <link>https://zeinhajjali.com/tags/3d-printing/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>Analytical</title>
+      <link>https://zeinhajjali.com/tags/analytical/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/3d-printing/</guid>
+      <guid>https://zeinhajjali.com/tags/analytical/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adafruit</title>
-      <link>https://zeinhajjali.com/tags/adafruit/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>Challenges</title>
+      <link>https://zeinhajjali.com/tags/challenges/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/adafruit/</guid>
+      <guid>https://zeinhajjali.com/tags/challenges/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Arduino</title>
-      <link>https://zeinhajjali.com/tags/arduino/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>FiveThirtyEight</title>
+      <link>https://zeinhajjali.com/tags/fivethirtyeight/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/arduino/</guid>
+      <guid>https://zeinhajjali.com/tags/fivethirtyeight/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Arm</title>
-      <link>https://zeinhajjali.com/tags/arm/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Github Pages</title>
+      <link>https://zeinhajjali.com/tags/github-pages/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/arm/</guid>
+      <guid>https://zeinhajjali.com/tags/github-pages/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Artistic</title>
-      <link>https://zeinhajjali.com/tags/artistic/</link>
-      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <title>Numerical</title>
+      <link>https://zeinhajjali.com/tags/numerical/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/artistic/</guid>
+      <guid>https://zeinhajjali.com/tags/numerical/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bno055</title>
-      <link>https://zeinhajjali.com/tags/bno055/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>Python</title>
+      <link>https://zeinhajjali.com/tags/python/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/bno055/</guid>
+      <guid>https://zeinhajjali.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Camera</title>
-      <link>https://zeinhajjali.com/tags/camera/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Repo</title>
+      <link>https://zeinhajjali.com/tags/repo/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/camera/</guid>
+      <guid>https://zeinhajjali.com/tags/repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riddler</title>
+      <link>https://zeinhajjali.com/tags/riddler/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/tags/riddler/</guid>
       <description></description>
     </item>
     
@@ -90,15 +99,6 @@
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zeinhajjali.com/tags/carleton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Lab</title>
-      <link>https://zeinhajjali.com/tags/design-lab/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
-      
-      <guid>https://zeinhajjali.com/tags/design-lab/</guid>
       <description></description>
     </item>
     
