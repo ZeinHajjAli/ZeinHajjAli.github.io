@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 14 Sep 2019 16:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://zeinhajjali.com/blog/comingsoon/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/blog/comingsoon/</guid>
+      <description>Blog posts will be coming soon. Hopefully.</description>
+    </item>
     
     <item>
       <title>RIDD #1: FiveThirtyEight - The Riddler - “Dakota Jones”</title>
@@ -19,15 +28,6 @@
       
       <guid>https://zeinhajjali.com/projects/ridd1/</guid>
       <description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;rdquo;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
-    </item>
-    
-    <item>
-      <title>The Hundred-Page Machine Learning Book by Andriy Burkov</title>
-      <link>https://zeinhajjali.com/blog/machinelearning/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/machinelearning/</guid>
-      <description>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &amp;lsquo;The Hundred-Page Machine Learning Book&amp;rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&amp;rsquo;ve been very interested in since I heard about it.</description>
     </item>
     
     <item>

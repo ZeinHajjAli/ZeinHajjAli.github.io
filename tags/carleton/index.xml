@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 13:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/carleton/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Hundred-Page Machine Learning Book by Andriy Burkov</title>
-      <link>https://zeinhajjali.com/blog/machinelearning/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeinhajjali.com/blog/machinelearning/</guid>
-      <description>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &amp;lsquo;The Hundred-Page Machine Learning Book&amp;rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&amp;rsquo;ve been very interested in since I heard about it.</description>
-    </item>
     
     <item>
       <title>NNSI: Northern Nomad Systems Integration Final Report</title>

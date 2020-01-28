@@ -7,115 +7,21 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://zeinhajjali.com/blog/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>The Hundred-Page Machine Learning Book by Andriy Burkov</title>
-			<link>https://zeinhajjali.com/blog/machinelearning/</link>
-			<pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+			<title>Coming Soon</title>
+			<link>https://zeinhajjali.com/blog/comingsoon/</link>
+			<pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://zeinhajjali.com/blog/machinelearning/</guid>
-			<description>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &amp;lsquo;The Hundred-Page Machine Learning Book&amp;rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&amp;rsquo;ve been very interested in since I heard about it.</description>
+			<guid>https://zeinhajjali.com/blog/comingsoon/</guid>
+			<description>Blog posts will be coming soon. Hopefully.</description>
 			<content type="html"><![CDATA[<p><DIV align="justify"></p>
 
-<p>Starting in the Fall semester of 2019, I will be taking a course at Carleton University on machine learning. The course description revealed that we will be working through &lsquo;The Hundred-Page Machine Learning Book&rsquo; by Andriy Burkov. Seeing this, I decided to get a head start and go through as much of the book as I can on my own. I feel like this will be a great opportunity to learn about and implement a topic I&rsquo;ve been very interested in since I heard about it.</p>
-
-<p>I will be updating a repository with examples and exercises from the book, as well as adding side projects and some of my own experimentation.</p>
-
-<p>The repo can be found on <a href="https://github.com/ZeinHajjAli/MachineLearning">Github</a>.</p>
+<p>Blog posts will be coming soon. Hopefully.</p>
 
 <p><DIV align="justify"></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Arduino Project Ideas</title>
-			<link>https://zeinhajjali.com/blog/arduinoprojectideas/</link>
-			<pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/blog/arduinoprojectideas/</guid>
-			<description>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:
- Arduino film camera (homemade shutter and all). Robotic arm built from scrap around the house. A printer that really works (no, like really works).</description>
-			<content type="html"><![CDATA[<p><DIV align="justify"></p>
-
-<p>Today I received my order of an Arduino Uno R3 kit. I’ve got a few ideas of some projects to work on. Some of these I haven’t found anything already online for. Might be a chance to build something that hasn’t been done in the same way before:</p>
-
-<ul>
-<li>Arduino film camera (homemade shutter and all).</li>
-<li>Robotic arm built from scrap around the house.</li>
-<li>A printer that really works (no, like really works).</li>
-</ul>
-
-<p>If I find that these go really well, I might order something like a ATtiny to flash and build a real prototype, specifically the printer.</p>
-
-<p><DIV align="justify"></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Misconception</title>
-			<link>https://zeinhajjali.com/blog/misconception/</link>
-			<pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/blog/misconception/</guid>
-			<description>&amp;ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&amp;rdquo;
- Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context.</description>
-			<content type="html"><![CDATA[<blockquote>
-<p>&ldquo;A view or opinion that is incorrect because it is based on faulty thinking or understanding.&rdquo;</p>
-</blockquote>
-
-<p><DIV align="justify"></p>
-
-<p>Too often, people forget the circumstances leading to misconception. We are judged by what we say or do in the moment without thought towards the context or the events leading up to it. Take the example of a convenience store robbery, the suspect is tried and charged with the crime committed in the moment, though the judge and jury subconsciously or consciously understand the given context. On the other hand, when two people/groups/ideologies clash, it&rsquo;s unusual for most to take into consideration what exactly caused this apparent &ldquo;faulty thinking or understanding&rdquo;. This often leads to a debate where each side is trying to prove its point without tailoring the arguments to their audiences.</p>
-
-<p>Debate as a system of discussion needs to be revamped. In debate competitions, whether varsity or political, the opposing sides are to dig into their views and convince the audience when they should be trying to compel the other side to switch over. Too many politicians change their own views to match the majority vote rather than trying to change the majority opinion to match what they truly believe to be in the benefit of the community. The idea of taking sides is toxic to the idea of debate, since the purpose of debate is to change the opposing sides view.</p>
-
-<p>Through the rise of Big Data and it&rsquo;s statistical power we can, in theory at least, target these more specific arguments towards the people they&rsquo;d most affect. We would be able to change peoples minds or push them in the &ldquo;right&rdquo; direction more efficiently. For example, someone who has had unpleasant run-ins with the police might have different reasons for not supporting them than someone brought up being taught that way of thinking. This applies to the other side as well. If a proportion of the police force consists of officers with preconceived notions or generalizations of a group of people or officers that came to these conclusions on their own for any number of reasons, they would respond differently to differently phrased or assembled arguments.</p>
-
-<p>Obviously on a large scale, this type of power can be greatly abused, as is suspected with the alleged voter manipulation in the last US presidential election. But as with anything else, we need to take the good with the bad while trying to minimize the ill effects. Targeted Arguments could be the next step in education and re-education and we definitely need to bring context back into the equation. Without it debate can more frequently end in deadlock, with neither side convinced or willing to change their views.</p>
-
-<p></DIV></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Only the Best From NYC</title>
-			<link>https://zeinhajjali.com/blog/nycpics/</link>
-			<pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/blog/nycpics/</guid>
-			<description>flickr page</description>
-			<content type="html"><![CDATA[<p><img src="/media/NYCpics/NYC4.jpg" alt="NYC 4" /></p>
-
-<p><img src="/media/NYCpics/NYC6.jpg" alt="NYC 6" /></p>
-
-<p><img src="/media/NYCpics/NYC3.jpg" alt="NYC 3" /></p>
-
-<p><img src="/media/NYCpics/NYC5.jpg" alt="NYC 5" /></p>
-
-<p><img src="/media/NYCpics/NYC1.jpg" alt="NYC 1" /></p>
-
-<p><img src="/media/NYCpics/NYC2.jpg" alt="NYC 2" /></p>
-
-<hr />
-
-<p><a href="https://flic.kr/s/aHskRXm241">flickr page</a></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>I am Not Artistic</title>
-			<link>https://zeinhajjali.com/blog/artistic/</link>
-			<pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/blog/artistic/</guid>
-			<description>I am not artistic. It took me my whole life to accept it, but I&amp;rsquo;ve finally figured it out. Throughout my life I&amp;rsquo;ve taken up countless &amp;ldquo;hobbies&amp;rdquo;, some of which are artistic, while others are technical. During the past week, I&amp;rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different.</description>
-			<content type="html"><![CDATA[<p><DIV align="justify"></p>
-
-<p>I am not artistic. It took me my whole life to accept it, but I&rsquo;ve finally figured it out. Throughout my life I&rsquo;ve taken up countless &ldquo;hobbies&rdquo;, some of which are artistic, while others are technical. During the past week, I&rsquo;ve realized that the reason I take up so many hobbies and never stick to them is that I like to learn the conceptual and unchanging aspects of them, then move on to something different. For example, I took up photography, bought a new DSLR, and went out to take pictures. But more than that, I spent loads of time online trying to understand every little thing about how the camera manipulated light and the relationships between the different components. Once I learned all I could, I tried for a time to take more artistic photos, but I&rsquo;d always go back to taking the same picture again and again with different settings just to see how it all affects the photo. I&rsquo;ve realized that I would make better use of my time and money by experimenting with different hobbies using cheaper parts or materials. I&rsquo;ll be using this blog to assemble a catalog of all the different interests I&rsquo;ve had over the years, as well as listing all the concepts I&rsquo;ve learned so that each post may be used to teach a beginner about a certain subject. There will be no schedule or timetable for any of this, I will be posting a new subject any time I&rsquo;m free or interested.</p>
-
-<p></DIV></p>
 ]]></content>
 		</item>
 		
