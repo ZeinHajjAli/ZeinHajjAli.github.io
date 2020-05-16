@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zein Hajj-Ali</title>
@@ -7,98 +7,98 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>3d</title>
-      <link>https://zeinhajjali.com/tags/3d/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>2020</title>
+      <link>https://zeinhajjali.com/tags/2020/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/3d/</guid>
+      <guid>https://zeinhajjali.com/tags/2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>3d Printing</title>
-      <link>https://zeinhajjali.com/tags/3d-printing/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>C#</title>
+      <link>https://zeinhajjali.com/tags/c#/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/3d-printing/</guid>
+      <guid>https://zeinhajjali.com/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>538</title>
-      <link>https://zeinhajjali.com/tags/538/</link>
-      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      <title>Coronavirus</title>
+      <link>https://zeinhajjali.com/tags/coronavirus/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/538/</guid>
+      <guid>https://zeinhajjali.com/tags/coronavirus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adafruit</title>
-      <link>https://zeinhajjali.com/tags/adafruit/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>Covid</title>
+      <link>https://zeinhajjali.com/tags/covid/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/adafruit/</guid>
+      <guid>https://zeinhajjali.com/tags/covid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Analytical</title>
-      <link>https://zeinhajjali.com/tags/analytical/</link>
-      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      <title>CSharp</title>
+      <link>https://zeinhajjali.com/tags/csharp/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/analytical/</guid>
+      <guid>https://zeinhajjali.com/tags/csharp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Arduino</title>
-      <link>https://zeinhajjali.com/tags/arduino/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>cuBIC</title>
+      <link>https://zeinhajjali.com/tags/cubic/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/arduino/</guid>
+      <guid>https://zeinhajjali.com/tags/cubic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bno055</title>
-      <link>https://zeinhajjali.com/tags/bno055/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>Javascript</title>
+      <link>https://zeinhajjali.com/tags/javascript/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/bno055/</guid>
+      <guid>https://zeinhajjali.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Carleton</title>
-      <link>https://zeinhajjali.com/tags/carleton/</link>
-      <pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
+      <title>Machine Learning</title>
+      <link>https://zeinhajjali.com/tags/machine-learning/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/carleton/</guid>
+      <guid>https://zeinhajjali.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Challenges</title>
-      <link>https://zeinhajjali.com/tags/challenges/</link>
-      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      <title>Native</title>
+      <link>https://zeinhajjali.com/tags/native/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/challenges/</guid>
+      <guid>https://zeinhajjali.com/tags/native/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design Lab</title>
-      <link>https://zeinhajjali.com/tags/design-lab/</link>
-      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      <title>React</title>
+      <link>https://zeinhajjali.com/tags/react/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeinhajjali.com/tags/design-lab/</guid>
+      <guid>https://zeinhajjali.com/tags/react/</guid>
       <description></description>
     </item>
     

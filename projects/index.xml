@@ -1,581 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Projects on Zein Hajj-Ali</title>
-		<link>https://zeinhajjali.com/projects/</link>
-		<description>Recent content in Projects on Zein Hajj-Ali</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 14 Sep 2019 16:00:00 -0400</lastBuildDate>
-		<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>RIDD #1: FiveThirtyEight - The Riddler - “Dakota Jones”</title>
-			<link>https://zeinhajjali.com/projects/ridd1/</link>
-			<pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/ridd1/</guid>
-			<description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;rdquo;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
-			<content type="html"><![CDATA[<p><DIV align="justify"></p>
-
-<p>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &lsquo;Culture&rsquo; section every week under the title of &lsquo;The Riddler&rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &ldquo;Can You Help Dakota Jones Raid The Lost Ark?&rdquo;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</p>
-
-<p>My first try at solving an older Riddler challenge was the Classic challenge of the week of May 19th, 2019. That solution can be found <a href="https://zeinhajjali.com/RiddlerSolutions/BeatTheNightKing/">here</a>.</p>
-
-<p>The <a href="https://fivethirtyeight.com/features/can-you-help-dakota-jones-raid-the-lost-arc/">Riddler Classic</a> for the week of September 13th, 2019 is as follows:</p>
-
-<blockquote>
-<p>The challenge is to find the longest string of letters in which (1) every pair of consecutive letters is a two-letter state or territory abbreviation, and (2) no state abbreviation occurs more than once. For example, Guam, Utah and Texas can be combined into the valid four-letter string GUTX. Another valid string is ALAK (Alabama, Louisiana and Alaska), while ALAL (Alabama, Louisiana and Alabama) is invalid because it includes the same state, Alabama, twice.</p>
-</blockquote>
-
-<p>My solution to this challenge can be found <a href="https://zeinhajjali.com/RiddlerSolutions/DakotaJones/classic">here</a>.</p>
-
-<p><DIV align="justify"></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>NNSI: Northern Nomad Systems Integration Final Report</title>
-			<link>https://zeinhajjali.com/projects/nnsi/</link>
-			<pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/nnsi/</guid>
-			<description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
-Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
-			<content type="html"><![CDATA[<p>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading <a href="/media/NNSI/ZeinHajjAli-NNSI-FinalReport.pdf"><strong>here</strong></a>, or for download <a href="https://github.com/ZeinHajjAli/ZeinHajjAli.github.io/raw/master/media/NNSI/ZeinHajjAli-NNSI-FinalReport.pdf"><strong>here</strong></a>.</p>
-
-<p>Any questions about the project can be directed to me at
-<a href="mailto:zeinhajjali@outlook.com">zeinhajjali@outlook.com</a>.</p>
-
-<hr />
-
-<p><img src="/media/NNSI/NomadEdited.jpg" alt="Northern Nomad" /></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
-			<link>https://zeinhajjali.com/projects/gsbr/</link>
-			<pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/gsbr/</guid>
-			<description>The Gyroscope Self-Balancing Robot (GSBR) project has ended. Previous posts on the progress and results can be found on this site. A more detailed and better edited look at the project can be found in the final report that the team has written up here or as a download here. The source code and testing code can all be found at the Github page here.</description>
-			<content type="html"><![CDATA[<p>The Gyroscope Self-Balancing Robot (GSBR) project has ended. Previous posts on the progress and results can be found on this site. A more detailed and better edited look at the project can be found in the final report that the team has written up <a href="/media/GSBR/ZeinHajjAli-GSBR-FinalReport.pdf"><strong>here</strong></a> or as a download <a href="https://github.com/ZeinHajjAli/ZeinHajjAli.github.io/raw/master/media/GSBR/ZeinHajjAli-GSBR-FinalReport.pdf"><strong>here</strong></a>.  The source code and testing code can all be found at the Github page <a href="https://github.com/ZeinHajjAli/4805-selfBalancingRobot"><strong>here</strong></a>.</p>
-
-<p><img src="/media/GSBR3/GSBR.gif" alt="balancingGif" /></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>NNSI #2: Final Update &amp; Conclusion</title>
-			<link>https://zeinhajjali.com/projects/nnsi2/</link>
-			<pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/nnsi2/</guid>
-			<description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
-			<content type="html"><![CDATA[
-
-<p><DIV align="justify"></p>
-
-<p>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad. A Github page was proposed, but there is not enough code to warrant a repository. A report, written by the NNSI team and edited by our supervisor, Professor Donald Bailey P.Eng., would be more appropriate. The report will be up as another post like this one within 24 hours.</p>
-
-<p></DIV></p>
-
-<hr />
-
-<blockquote>
-<h2 id="so-it-goes">So it goes.</h2>
-
-<p>-Vonnegut</p>
-</blockquote>
-]]></content>
-		</item>
-		
-		<item>
-			<title>GSBR #3: Final Update and Conclusion</title>
-			<link>https://zeinhajjali.com/projects/gsbr3/</link>
-			<pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/gsbr3/</guid>
-			<description>Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values.</description>
-			<content type="html"><![CDATA[
-
-<p><DIV align="justify">
-Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values. We are currently finishing up the final report to be submitted to the professor.
-</DIV></p>
-
-<p><img src="/media/GSBR3/GSBR.gif" alt="BalancingGif" /></p>
-
-<h2 id="testing-and-setbacks">Testing and Setbacks</h2>
-
-<p><DIV align="justify">
-We ran into more than a few issues during testing, mostly to do with the motor drivers and the batteries attached. We were not able to run the Arduino, the gyroscope, and the motors/motor driver all off of the 4 AAA battery pack, and so we decided to connect a 9V battery directly to the motor driver. Unfortunately, once the 9V loses a bit of charge, the maximum motor speed would decrease, which changes the needed PID constants to keep the robot upright, and makes testing and demoing the robot without a rechargeable battery pack a hassle.
-</DIV></p>
-
-<h2 id="final-demo">Final Demo</h2>
-
-<p><DIV align="justify">
-We bought many batteries to test with and kept one aside to demo the project to the professor and the teaching assistants. As soon as we connected the battery, only one wheel was spinning, and we first thought that our battery was mixed up with one that was dying. Upon further inspection, one of the connections from the motor to the motor driver was loose, and the robot worked well after fixing the issue.
-</DIV></p>
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/aJF67wwZkME" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-
-<h2 id="final-deliverables">Final Deliverables</h2>
-
-<p><DIV align="justify">
-The final project report is currently being finalized, and will be submitted by tomorrow to the professor. I will also upload it to the site as a PDF. The <a href="https://github.com/ZeinHajjAli/4805-selfBalancingRobot">Github page</a> has been kept up to date, since we used it for source code version control and collaborative programming efforts.
-</DIV></p>
-
-<h2 id="conclusion-and-final-thoughts">Conclusion and Final Thoughts</h2>
-
-<p><DIV align="justify">
-I take great pride in the accomplishments of the team for this project. The components we were given to work with were subpar, and some were damaged, but we made use of them in the best possible way. My pride is also compounded by the fact that a week before the demo, we gave a presentation on the project, and we heard the professor say to her teaching assistant that she didn’t believe we could get it to work with the components we had. We used this doubt as a motivating factor and worked hard over the next week to achieve the goals of the project, and deliver an impressive demo. I took on the role of a leader for this project, but not everyone needed to be told what to do. I enjoyed my responsibilities throughout the semester, and learned a lot about the optimal way of motivating different people in different ways. Overall, I rank this project as a success.
-</DIV></p>
-
-<hr />
-
-<blockquote>
-<h2 id="great-success">Great Success!</h2>
-
-<p>-Borat</p>
-</blockquote>
-]]></content>
-		</item>
-		
-		<item>
-			<title>GSBR #2: Components and Splitting Tasks</title>
-			<link>https://zeinhajjali.com/projects/gsbr2/</link>
-			<pubDate>Mon, 11 Feb 2019 20:25:00 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/gsbr2/</guid>
-			<description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
-Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
-			<content type="html"><![CDATA[
-
-<p>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&rsquo;t set up when I wrote the first post, but it can be found <a href="https://github.com/ZeinHajjAli/4805-selfBalancingRobot">here</a>.</p>
-
-<hr />
-
-<p>Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest. The Arduino and gyroscope would go in the middle level, and the motors, IR sensors, and motor driver will all be on the bottom.</p>
-
-<p><img src="/media/GSBR2/base.png" alt="img" /></p>
-
-<p>Figure 1: Prototype 3D print base [Theo Hronowsky]</p>
-
-<p>Above is a first prototype of the base. We will be trying to build it out of wood or plastic, but we might resort to 3D printing it if it is feasible.</p>
-
-<hr />
-
-<p>Ahmad was about to start work on the line follower part of the code. We will be using two IR sensors placed close enough to straddle a line made with double width electrical tape. The robot will go forward, watching the floor for the black tape, and turning towards the side of the sensors that senses the tape.</p>
-
-<hr />
-
-<p>Hussain and I will be working on the self-balancing algorithm. We obtained a gyroscope from Mr. Graham. The one we received is a 9-axis sensor, the Adafruit BNO055.</p>
-
-<p><img src="/media/GSBR2/gyro.jpg" alt="img" /></p>
-
-<p>Figure 2: Adafruit BNO055 <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup></p>
-
-<p>We connected it to the Arduino and ran some test code. After battling with the header files and libraries, we were able to read successfully from the sensor. The easiest way to include the libraries is to download them as zip files and add them through the Arduino IDE, it does the rest for you. We also had some trouble connecting the Arduino to any of our PCs to download the code. We had to make sure we selected the correct processor in the IDE as well as the correct COM port. We needed to download the drivers and when it still didn&rsquo;t work, we realized we that our USB cable was faulty. After replacing the cable, the upload went smoothly. I have the kit with me at home, and I will be running some more tests to find the thresholds and values needed to keep our robot upright.</p>
-
-<hr />
-
-<p>We will all be doing some part of our work during the week and meeting up in the project lab to update each other and re-schedule tasks.</p>
-
-<h2 id="references">References</h2>
-<div class="footnotes">
-
-<hr />
-
-<ol>
-<li id="fn:1">Adafruit Industries. (n.d.). Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055. Retrieved from <a href="https://www.adafruit.com/product/2472">https://www.adafruit.com/product/2472</a>
- <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
-</ol>
-</div>
-]]></content>
-		</item>
-		
-		<item>
-			<title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
-			<link>https://zeinhajjali.com/projects/gsbr1/</link>
-			<pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/gsbr1/</guid>
-			<description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.
-SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
-Emmanuel Oluyomi 100953361
-Zein Hajj-Ali 101020677
-Hussain Aljabri 100935515
-Ahmad Ayyoub 100954214
+  <channel>
+    <title>Projects on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/projects/</link>
+    <description>Recent content in Projects on Zein Hajj-Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 14 Sep 2019 16:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zeinhajjali.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RIDD #1: FiveThirtyEight - The Riddler - “Dakota Jones”</title>
+      <link>https://zeinhajjali.com/projects/ridd1/</link>
+      <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/ridd1/</guid>
+      <description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;quot;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
+    </item>
+    
+    <item>
+      <title>NNSI: Northern Nomad Systems Integration Final Report</title>
+      <link>https://zeinhajjali.com/projects/nnsi/</link>
+      <pubDate>Tue, 09 Apr 2019 13:30:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi/</guid>
+      <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
+Any questions about the project can be directed to me at zeinhajjali@outlook.com.
+ </description>
+    </item>
+    
+    <item>
+      <title>GSBR: Gyroscope Self-Balancing Robot Final Report</title>
+      <link>https://zeinhajjali.com/projects/gsbr/</link>
+      <pubDate>Tue, 09 Apr 2019 10:00:00 -0400</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr/</guid>
+      <description>The Gyroscope Self-Balancing Robot (GSBR) project has ended. Previous posts on the progress and results can be found on this site. A more detailed and better edited look at the project can be found in the final report that the team has written up here or as a download here. The source code and testing code can all be found at the Github page here.</description>
+    </item>
+    
+    <item>
+      <title>NNSI #2: Final Update &amp; Conclusion</title>
+      <link>https://zeinhajjali.com/projects/nnsi2/</link>
+      <pubDate>Mon, 08 Apr 2019 21:45:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi2/</guid>
+      <description>The Northern Nomad Systems Integration project has ended, and the final report is close to finished. The team ran into a lot of setbacks, but that is to be expected from a real world project. Our main issue was that we were not given any documentation or compiled information about all the systems that are installed in the house. We decided to make our final report as comprehensive as possible and available to any future teams that will work on the Nomad.</description>
+    </item>
+    
+    <item>
+      <title>GSBR #3: Final Update and Conclusion</title>
+      <link>https://zeinhajjali.com/projects/gsbr3/</link>
+      <pubDate>Mon, 08 Apr 2019 18:52:09 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr3/</guid>
+      <description>Two months have passed since my last update on the Gyroscope Self-Balancing Robot and a lot has happened. The team wrote up a progress report, we built the self-balancing code framework, and did a whole lot of testing to get the correct PID constant values to keep the robot upright without oscillating too heavily. The demo went smoothly, and we have some videos of the robot keeping upright at different PID values.</description>
+    </item>
+    
+    <item>
+      <title>GSBR #2: Components and Splitting Tasks</title>
+      <link>https://zeinhajjali.com/projects/gsbr2/</link>
+      <pubDate>Mon, 11 Feb 2019 20:25:00 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr2/</guid>
+      <description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
+ Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
+    </item>
+    
+    <item>
+      <title>GSBR #1: Gyroscope Self-Balancing Robot: 4805 CSE Design Lab Project</title>
+      <link>https://zeinhajjali.com/projects/gsbr1/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:01 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
+      <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.
+ SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky	101008637
+Emmanuel Oluyomi	100953361
+Zein Hajj-Ali	101020677
+Hussain Aljabri	100935515
+Ahmad Ayyoub	100954214
 Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
-			<content type="html"><![CDATA[
-
-<p><DIV align="justify"></p>
-
-<p>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.</p>
-
-<hr />
-
-<p><img src="/media/GSBR1/header.jpg" alt="img" /></p>
-
-<h3 id="sysc-4805-computer-systems-design-lab">SYSC 4805 - Computer Systems Design Lab</h3>
-
-<h1 id="project-proposal"><strong>Project Proposal</strong></h1>
-
-<h2 id="group-9">Group #9</h2>
-
-<h2 id="students">Students:</h2>
-
-<p>Theo Hronowsky  101008637</p>
-
-<p>Emmanuel Oluyomi    100953361</p>
-
-<p>Zein Hajj-Ali   101020677</p>
-
-<p>Hussain Aljabri 100935515</p>
-
-<p>Ahmad Ayyoub    100954214</p>
-
-<h2 id="objectives">Objectives</h2>
-
-<p>The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform. The system will contain various sensors and the associated software that processes sensor data and drives the robot to solve a task. The task that our robot will accomplish is self-balancing. The robot will use its motors to keep itself upright, without any other aid. If this is achieved, we will also be adding a simple line-following capability. This will be implemented using a real robot platform rather than using the simulation software, Vrep. Reasons as to why the group decided to build a physical robot rather than use the simulation software was that using a physical model of the robot would translate to real world application as well as produce a hands-on and interactive end product.</p>
-
-<h2 id="main-details">Main Details</h2>
-
-<p>We decided to build a robot that balances on it&#39;s two wheels using sensor input data, and the movement of the motors to correct itself and keep upright. Our lesser part of our project is the line following aspect which should be much simpler, and is of less importance than the self-balancing project.</p>
-
-<p>Since our project depends on the building of a self balancing robot, we require the use of a gyroscope. We chose to use a gyroscope rather than an accelerometer due to the fact that a gyroscope can detect rotation around a given axis. This will be useful for when we come to the stage of the project where we want to implement the line following aspect. We will also need to build a new base for our robot that is vertical and distributes the weight of all the components evenly along the middle of the robot. This way it will lessen the amount of work needed to be done by the arduino to calculate the values for the self balancing movements.</p>
-
-<p>Our project uses new sensors that were not included in the system such as a gyroscope and/or an accelerometer, as well as a whole new platform for the robot. The extra sensors we need will be sourced from Graham Eatherley and the platform will be designed custom for our project and will be 3D printed using the printers available on campus.</p>
-
-<p>We will be developing an algorithm to calculate the speed values needed for the motors to keep the robot upright. There are already some algorithms and programs found online that do the same job, but we will be using ideas from them to implement our own version specific to our project. We will also be developing a simple line following algorithm that uses the movement techniques from the self-balancing part of the project.</p>
-
-<p>We will be evaluating the success of our project by running tests on the practical performance. We will be testing the capability of keeping upright under four main conditions:</p>
-
-<ol>
-<li><p>Standing still or in place,</p></li>
-
-<li><p>Being pushed down lightly,</p></li>
-
-<li><p>While moving in a straight line, and</p></li>
-
-<li><p>While moving on a curved path or taking turns.</p></li>
-</ol>
-
-<p>These four tests will show the full capabilities of our self-balancing system. If completed successfully, we will also be testing the basic line-following implementation.</p>
-
-<p>The roles and strengths of each team member and the timeline for each stage of the project are discussed below in their respective sections.</p>
-
-<h2 id="team-members-amp-roles">Team Members &amp; Roles</h2>
-
-<p>Group #9 consists of five 4th year computer systems engineering students. The group members are: Theo Hronowsky, Zein Hajj-Ali, Emmanuel Oluyomi, Hussain Aljabri and Ahmad Ayyoub. Each member will assume the role of the project manager and will have their own associated responsibilities.  The roles of each team member is split in a way that each member of the team will participate in all aspects of project planning, management and the design and development of the end solution.</p>
-
-<p>As 4th year computer system engineers, all group members have similar knowledge and experience. Experience such as embedded system design and various programming principles are a shared skill set between the team. Knowledge in microcontrollers and sensors have been acquired in previous projects and will be applied by all members. More so, all members of the group have extensive knowledge of various programming principles. That being said, the group will work as a team on all phases of the engineering design process, and as problems arise, will branch off, based on interests, to propose solutions.</p>
-
-<h3 id="proposed-tasks">Proposed Tasks:</h3>
-
-<ul>
-<li><strong>Zein Hajj-Ali:</strong> Programming, Building Hardware, Developing testing scenarios</li>
-<li><strong>Theo Hronowsky:</strong> Sensor programming, assembling the robot/hardware, CAD design/3-D printing</li>
-<li><strong>Emmanuel Oluyomi:</strong> Coding of Arduino, 3-D printing, testing of program.</li>
-<li><strong>Hussain Aljabri:</strong> Hardware connections and Arduino programming.</li>
-<li><strong>Ahmad Ayyoub:</strong> Writing or testing the software needed to balance the robot or make it follow the line</li>
-</ul>
-
-<h2 id="project-planning-steps">Project Planning steps</h2>
-
-<p>The computer systems design lab project will be planned in a way that it is iterative. It will be planned using a variation of the engineering design process. The robot will be created through defining, planning, design, implementing and testing phases. The team will start working on the first iteration of the project after acquiring and checking all the necessary sensors and parts.</p>
-
-<p>First, the team members will collaborate to determine the needed hardware sensors that will be connected to the robot to accomplish the self-balancing and line following functionalities of the robot. For now, we know that we will need the gyroscope and accelerometer sensors to implement the functionalities. The second step is to connect these sensors with other sensors of the robot to make it move on the line. The next step is to test the sensors if they are working after we connect them with the robot.Then we proceed to writing or downloading the necessary software application code on arduino that will cause the sensors to work accordingly. Then we will need to check for any mistakes or variations from the robot. For example, we will test whether the robot is actually moving on the line while balancing itself and not falling off. In other words, we will do the integration testing of the software and hardware of the robot.We then combine the sensors and implement the required software code that will make it move in a line and balance itself at the same time. We&#39;ve organized a tentative schedule for the group to achieve the project objectives for structure.</p>
-
-<p>The tentative schedule for the group is as follows:</p>
-
-<table>
-<thead>
-<tr>
-<th><strong>Component</strong></th>
-<th><strong>Date</strong></th>
-<th><strong>Details</strong></th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td><strong>Requirements Elicitation</strong></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Project topic choice &amp; planning</td>
-<td>Jan 25th - Feb 1st, 2019</td>
-<td>Choose topic and begin planning</td>
-</tr>
-
-<tr>
-<td>Project proposal</td>
-<td>Feb 1st 2019</td>
-<td>Brief description of the self balancing robot and platform chosen</td>
-</tr>
-
-<tr>
-<td><strong>Planning/Design</strong></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Project planning/design options</td>
-<td>Feb 1st - Feb 15th, 2019</td>
-<td>Consider the weight of the robot and figuring out a design to maintain balanced and begin planning.</td>
-</tr>
-
-<tr>
-<td>Acquire necessary hardware</td>
-<td>Feb 1st - Feb 15th, 2019</td>
-<td>We need Gyroscope and/or accelerometer.</td>
-</tr>
-
-<tr>
-<td><strong>Development/Implementation</strong></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Project implementation</td>
-<td>Feb 15th - Mar 1st, 2019</td>
-<td>Begin the implementation phase: Adding the sensors and composing the robot.</td>
-</tr>
-
-<tr>
-<td>Project progress report</td>
-<td>Mar. 3, 2019</td>
-<td>Description of the current progress</td>
-</tr>
-
-<tr>
-<td><strong>Testing &amp; Refinement</strong></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Testing and refinement</td>
-<td>Mar. 3rd - Mar. 21, 2019</td>
-<td>Test the first iteration of the completed robot, implement changes that improve performance.</td>
-</tr>
-
-<tr>
-<td>Final project presentation</td>
-<td>scheduled between Mar. 22 and Apr. 5, 2019</td>
-<td>Presentation that will cover chosen components, implementation, and other project specifics.</td>
-</tr>
-
-<tr>
-<td>Final project demonstration</td>
-<td>Apr. 5, 2019</td>
-<td>Presentation of the implementation of the physical robot.</td>
-</tr>
-
-<tr>
-<td>Peer review of individual contributions</td>
-<td>Mar. 29, 2019</td>
-<td>Each student will demonstrate their personal contributions throughout the semester.</td>
-</tr>
-
-<tr>
-<td>Robot kit return</td>
-<td>Apr. 9, 2019</td>
-<td>Robot kit is returned.</td>
-</tr>
-
-<tr>
-<td>Final Report</td>
-<td>Apr. 9, 2019</td>
-<td>An updated version of the progress report, and contains all the technical details of the project.</td>
-</tr>
-</tbody>
-</table>
-
-<h2 id="risk-evaluation">Risk Evaluation</h2>
-
-<p>In any project, it can be expected that problems will arise. In order to minimize the impact of these setbacks, some considerations have been placed. This involves events that are uncertain to the group, and may have positive or negative effects on the project.</p>
-
-<p>These risks can be identified as:</p>
-
-<ul>
-<li>The event that a piece of hardware is broken or does not work to specification. <strong>Medium Risk, Medium Impact.</strong> Solution: Source a replacement part; Remove need for it using an alternative method.</li>
-<li>If hardware is not sourced locally, the chance that shipping time may not be within the timeline of this project. <strong>Low Risk, Low Impact.</strong> Solution: Order parts locally; Order parts early in the process.</li>
-<li>There might be latency delay from the sensors. <strong>Medium Risk, Low Impact.</strong> Solution: Account for delay in code; Don&#39;t use speed dependant processes.</li>
-<li>Readings from the sensors aren&#39;t accurate and precise. <strong>Medium Risk, Medium Impact.</strong> Solution: Order replacement sensors; Account for precision in code.</li>
-<li>Scope of the project is ill defined and needs to be redefined later on. <strong>Low Risk, Medium Impact.</strong> Solution: Redefine scope of project.</li>
-</ul>
-
-<p>Overall, the risk associated with the combination of the events is minimal in the sense that if these events occur, there are preventative measures or alternatives that can be considered.</p>
-
-<h2 id="project-cost-and-duration">Project Cost and Duration</h2>
-
-<p>The basic equipment that we will use for the robot&#39;s hardware configuration are borrowed from Carleton University, and other sensors hardware equipment might be purchased or borrowed from Graham Eatherley if needed and available. If these sensors are not available locally, we will need to purchase these components, which will come with a cost. However, often times these components are cheap and will not have a huge impact in terms of cost.  As stated in the tentative schedule, the basic equipments will be returned at the end of the semester. It is assumed that the duration of the project will last the whole semester with a functional product developed at the end of the term.</p>
-
-<h2 id="hardware-or-sensor-main-components">Hardware or sensor main components</h2>
-
-<p>These are the main sensors used in the robot and components:</p>
-
-<ul>
-<li><p>Gyroscope <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>
-<img src="/media/GSBR1/gyro.jpg" alt="img" /></p></li>
-
-<li><p>Accelerometer <sup class="footnote-ref" id="fnref:2"><a href="#fn:2">2</a></sup>
-<img src="/media/GSBR1/accel.jpg" alt="img" /></p></li>
-
-<li><p>Motor module <sup class="footnote-ref" id="fnref:3"><a href="#fn:3">3</a></sup>
-<img src="/media/GSBR1/mmodule.jpg" alt="img" /></p></li>
-</ul>
-
-<p>This is the schematic sketch of what the robot will do when it starts to move to balance itself:</p>
-
-<p><img src="/media/GSBR1/schematic.jpg" alt="img" /></p>
-
-<p>Figure 1: Self-balancing problem <sup class="footnote-ref" id="fnref:4"><a href="#fn:4">4</a></sup></p>
-
-<hr />
-
-<h2 id="references">References</h2>
-
-<p><em>I do not own the Carleton University trademark or logo.</em></p>
-
-<p></DIV></p>
-<div class="footnotes">
-
-<hr />
-
-<ol>
-<li id="fn:1"><em>Amazon.co.uk</em>, 2019. [Online]. Available: <a href="https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W">https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W</a>. [Accessed: 01- Feb- 2019].
- <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
-<li id="fn:2">&quot;Gyro Sensor&quot;, <em>indiamart.com</em>, 2019. [Online]. Available: <a href="https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html">https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html</a>. [Accessed: 01- Feb- 2019].
- <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
-<li id="fn:3">L. Contr, &quot;L9110S H-bridge Dual DC Stepper Motor Driver Contr | Arduino Robots &amp; electronics component in kabul afghanistan&quot;, <em>Nooraziz.com</em>, 2019. [Online]. Available: <a href="http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/">http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/</a>. [Accessed: 01- Feb- 2019].
- <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
-<li id="fn:4">&quot;S15: Self-Balancing Robot - Embedded Systems Learning Academy&quot;, <em>Socialledge.com</em>, 2019. [Online]. Available: <a href="http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot">http://socialledge.com/sjsu/index.php/S15:_Self-Balancing_Robot</a>. [Accessed: 01- Feb- 2019].
- <a class="footnote-return" href="#fnref:4"><sup>[return]</sup></a></li>
-</ol>
-</div>
-]]></content>
-		</item>
-		
-		<item>
-			<title>SITE #2: Fixed the Domain Issue</title>
-			<link>https://zeinhajjali.com/projects/site2/</link>
-			<pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/site2/</guid>
-			<description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
+    </item>
+    
+    <item>
+      <title>SITE #2: Fixed the Domain Issue</title>
+      <link>https://zeinhajjali.com/projects/site2/</link>
+      <pubDate>Tue, 05 Feb 2019 07:00:00 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site2/</guid>
+      <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
 As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
-			<content type="html"><![CDATA[
-
-<p><DIV align="justify"></p>
-
-<p>As it turns out, the HTTPS issue <strong>was</strong> because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.</p>
-
-<p>As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.toml’ file as the *.github.io domain. I changed it to my custom domain and pushed, and the CSS loaded fine.</p>
-
-<hr />
-
-<h2 id="on-to-bigger-things">On to bigger things.</h2>
-
-<p></DIV></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>SITE #1: Personal/Resume/Portfolio Website</title>
-			<link>https://zeinhajjali.com/projects/site1/</link>
-			<pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/site1/</guid>
-			<description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="purpose">Purpose</h2>
-
-<p><DIV align="justify">
-I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.
-</DIV></p>
-
-<h2 id="technologies-and-workflow">Technologies and Workflow</h2>
-
-<figure class="left">
-    <img src="/media/SITE1/screencapHome.png"
-         alt="Homepage screencap"/> <figcaption>
-            <p>Homepage screencap - February 2019</p>
-        </figcaption>
-</figure>
-
-
-<p><DIV align="justify">
-The site is built using the Hugo static site generator found at <a href="https://gohugo.io">goHugo.io</a>.  Hugo comes as a single executable that you run to generate all the required files. It builds a simple folder structure and after writing up some pages/posts in markdown, you can run the executable to generate the static site in HTML. You can easily add themes, many of which can be found on a section on their site. This is a godsend for me since I have little to no artistic ability. My site uses a theme called Hermit that is as minimally cluttered as possible. To set up the start page and any metadata, all that’s needed is a little knowledge in either TOML, YAML, or JSON, all of which are simple enough to get the hang of for any beginner. After setting up my start and about pages, I wrote my prior blog posts in markdown, and linked my resume as a download.
-</DIV></p>
-
-<figure class="right">
-    <img src="/media/SITE1/screencapBlogs.png"
-         alt="Blogs screencap"/> <figcaption>
-            <p>Blogs screencap - February 2019</p>
-        </figcaption>
-</figure>
-
-
-<p><DIV align="justify">
-My personal workflow for this site is very simple. I have two Github repos: one for my actual site at <a href="https://github.com/zeinhajjali/zeinhajjali.github.io">ZeinHajjAli.github.io</a>, and one for my build tools, setup directory, and general purpose administration files at <a href="https://github.com/zeinhajjali/HugoBuild">HugoBuild</a>. I have set up the ‘public’ folder in HugoBuild to point to the site rep as the remote Master. I make any changes needed, specifically writing new blog/project posts and place them in their respective ‘content’ subfolders. I can then test to see how everything looks by running the Hugo server locally and navigating to the localhost:1313. I then run Hugo without any arguments, which builds the site and saves it in the ‘public’ folder. Then I add, commit, and push the changes in the ‘public’ folder if everything works correctly. This automatically pushes to my site repo which updates the site. I then do the same to the parent HugoBuild repo to save my raw changes as well.
-</DIV></p>
-
-<h2 id="problems-and-moving-forward">Problems and Moving Forward</h2>
-
-<p><DIV align="justify">
-I had bought the domain ‘zeinhajjali.com’ in 2017, but I recently moved registrars to NameSilo.com. It seemed cheaper and I am working on getting the redirect working at the moment. I ran into a problem earlier when I was still registered with Dynadot in that the HTTPS certificate check kept getting rejected. I assume this is a registrar problem since when running the site with the original *.github.io domain I did not encounter this error.</p>
-
-<p>Going forward I will hopefully have the domain name problem sorted out, I will also be slightly beautifying the site. I hope to commission a logo, one that I can use both on the homepage, as a favicon, and in general in a business setting. If I put up enough posts I might end up wanting to custom make a theme instead of using one that I found online. I will also be working on making this site the first result when Googling my name. Right now my Facebook page comes up first, then my LinkedIn, then my Instagram, and finally this page (or at least the zeinhajjali.com domain). SEO is a whole other project to get into though.
-</DIV></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>NNSI #1: Northern Nomad Systems Integration Project</title>
-			<link>https://zeinhajjali.com/projects/nnsi1/</link>
-			<pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/projects/nnsi1/</guid>
-			<description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
-			<content type="html"><![CDATA[
-
-<p><DIV align="justify"></p>
-
-<h2 id="introduction">Introduction</h2>
-
-<p>Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus. Our main task was to connect all the smart devices together and have a centralized way to read and modify them.</p>
-
-<h2 id="setbacks-and-pivot">Setbacks and Pivot</h2>
-
-<p>As soon as we started research on the project, we found that although the original team that built the house had done a fine job, they neglected to have a central wiki or documentation. This meant that we ping-ponged from email to email to try and compile the needed information.</p>
-
-<p>We found that a lot of the systems could not directly communicate with each other and many required an internet connection to communicate with proprietary servers. This did not mesh well with the standalone ideology of the Nomad. We decided to first tackle the 28 SMT wall sensors which recorded temperature, humidity, and moisture levels. The sensors were placed in the walls where there was also installed a new type of insulation. Part of the Nomad&rsquo;s purpose was to research new sustainable technologies. The sensors were used to collect data to be used by graduate students on the performance of the insulation.</p>
-
-<p>The sensors were hardwired into data loggers that were made by SMT as well. The would connect to a wireless interface device that could only be used on a Windows pc. Our project asked us to do away with the need of a pc or laptop in the house and so we tried using WINE coupled with ExaGear on a Raspberry Pi to emulate the Windows environment for the purposes of running the SMT data collection software. We kept running into an error that we couldn&rsquo;t solve so we needed to find a way around the interface device and the loggers in the first place.</p>
-
-<p>We decided to hardwire the sensors into our own interface device. We did some research and found the (probably common) ESP8266 NodeMCU device. We will be ordering an ESP8266 preinstalled on a development board, as well as four 8:1 multiplexers and one 4:1 multiplexer to connect the 28 sensors to the one analog pin on the development board. We will then need to write the code to convert the raw values using manufacturer formulas, and send them to our Raspberry Pi. The Pi will compile the data into a format readable by both humans and the software SMT provides to read from the loggers. This allows the graduate students to continue without disrupting their workflow, but also allows us to expand on the capabilities of the sensors.</p>
-
-<hr />
-
-<p>Unfortunately, this was the first update/post about this project, so some details are left out, but a Github page will be coming soon. I will be trying to update more often so that I can cover all relevant details.</p>
-
-<p></DIV></p>
-]]></content>
-		</item>
-		
-	</channel>
+    </item>
+    
+    <item>
+      <title>SITE #1: Personal/Resume/Portfolio Website</title>
+      <link>https://zeinhajjali.com/projects/site1/</link>
+      <pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/site1/</guid>
+      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
+    </item>
+    
+    <item>
+      <title>NNSI #1: Northern Nomad Systems Integration Project</title>
+      <link>https://zeinhajjali.com/projects/nnsi1/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/projects/nnsi1/</guid>
+      <description>Introduction Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House&amp;rsquo;s goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus.</description>
+    </item>
+    
+  </channel>
 </rss>

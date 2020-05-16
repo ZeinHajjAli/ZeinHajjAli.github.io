@@ -1,29 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Blogs on Zein Hajj-Ali</title>
-		<link>https://zeinhajjali.com/blog/</link>
-		<description>Recent content in Blogs on Zein Hajj-Ali</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://zeinhajjali.com/blog/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Coming Soon</title>
-			<link>https://zeinhajjali.com/blog/comingsoon/</link>
-			<pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-			
-			<guid>https://zeinhajjali.com/blog/comingsoon/</guid>
-			<description>Blog posts will be coming soon. Hopefully.</description>
-			<content type="html"><![CDATA[<p><DIV align="justify"></p>
-
-<p>Blog posts will be coming soon. Hopefully.</p>
-
-<p><DIV align="justify"></p>
-]]></content>
-		</item>
-		
-	</channel>
+  <channel>
+    <title>Blogs on Zein Hajj-Ali</title>
+    <link>https://zeinhajjali.com/blog/</link>
+    <description>Recent content in Blogs on Zein Hajj-Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zeinhajjali.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life Update: Academia and the Workforce</title>
+      <link>https://zeinhajjali.com/blog/lifeupdate1/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/blog/lifeupdate1/</guid>
+      <description>So, I&amp;rsquo;ve had a few life events in the past few months, that will shape the way my future looks. That&amp;rsquo;s without counting the global pandemic happening around the world right now.
+Academia After graduating from my undergraduate program, I recieved an acceptance to Carleton Universities M.Asc program in Electrical and Computer Engineering. I will be starting my masters degree in the fall of 2020 and will be supervised by Professor James Green.</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://zeinhajjali.com/blog/comingsoon/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/blog/comingsoon/</guid>
+      <description>Blog posts will be coming soon. Hopefully.</description>
+    </item>
+    
+  </channel>
 </rss>

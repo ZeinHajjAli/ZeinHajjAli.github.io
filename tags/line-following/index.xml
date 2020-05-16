@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Line Following on Zein Hajj-Ali</title>
@@ -19,7 +19,7 @@
       
       <guid>https://zeinhajjali.com/projects/gsbr2/</guid>
       <description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
-Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
+ Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
     </item>
     
   </channel>

@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zein Hajj-Ali</title>
-    <link>https://zeinhajjali.com/</link>
+    <link>https://zeinhajjali.com/index.html</link>
     <description>Recent content on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeinhajjali.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+  </channel>
+</rss>pe="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life Update: Academia and the Workforce</title>
+      <link>https://zeinhajjali.com/blog/lifeupdate1/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeinhajjali.com/blog/lifeupdate1/</guid>
+      <description>So, I&amp;rsquo;ve had a few life events in the past few months, that will shape the way my future looks. That&amp;rsquo;s without counting the global pandemic happening around the world right now.
+Academia After graduating from my undergraduate program, I recieved an acceptance to Carleton Universities M.Asc program in Electrical and Computer Engineering. I will be starting my masters degree in the fall of 2020 and will be supervised by Professor James Green.</description>
+    </item>
     
     <item>
       <title>Coming Soon</title>
@@ -27,7 +40,7 @@
       <pubDate>Sat, 14 Sep 2019 16:00:00 -0400</pubDate>
       
       <guid>https://zeinhajjali.com/projects/ridd1/</guid>
-      <description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;rdquo;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
+      <description>The statistics website FiveThirtyEight publishes weekly math and/or programming challenges in their &amp;lsquo;Culture&amp;rsquo; section every week under the title of &amp;lsquo;The Riddler&amp;rsquo;. I have started trying to solve these problems week by week as they come out. The Riddler for the week of September 13th, 2019 was called &amp;ldquo;Can You Help Dakota Jones Raid The Lost Ark?&amp;quot;. Each Riddler challenge come in two parts, the first is the Express, which is a shorter challenge that can usually be solved by hand, the second is the Classic which is usually a little tougher and might need some programming or scripting to solve.</description>
     </item>
     
     <item>
@@ -37,7 +50,8 @@
       
       <guid>https://zeinhajjali.com/projects/nnsi/</guid>
       <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
-Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
+Any questions about the project can be directed to me at zeinhajjali@outlook.com.
+ </description>
     </item>
     
     <item>
@@ -74,7 +88,7 @@ Any questions about the project can be directed to me at zeinhajjali@outlook.com
       
       <guid>https://zeinhajjali.com/projects/gsbr2/</guid>
       <description>Last Friday the team met in the project lab to talk about next steps and move forward. The Github page wasn&amp;rsquo;t set up when I wrote the first post, but it can be found here.
-Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
+ Theo and Emmanuel started work on the platform we need to build. The platform/base given to us works fine for a rover style robot, but is not very suited for a self-balancing robot. We decided on a two or three platform base, keeping the battery pack on the highest level since it is the heaviest.</description>
     </item>
     
     <item>
@@ -84,11 +98,11 @@ Theo and Emmanuel started work on the platform we need to build. The platform/ba
       
       <guid>https://zeinhajjali.com/projects/gsbr1/</guid>
       <description>Since I have done most of the post already in the project proposal for this project, I have re-written it here instead of re-doing all the work again. This proposal was in collaberation with the team memebers mentioned below.
-SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky 101008637
-Emmanuel Oluyomi 100953361
-Zein Hajj-Ali 101020677
-Hussain Aljabri 100935515
-Ahmad Ayyoub 100954214
+ SYSC 4805 - Computer Systems Design Lab Project Proposal Group #9 Students: Theo Hronowsky	101008637
+Emmanuel Oluyomi	100953361
+Zein Hajj-Ali	101020677
+Hussain Aljabri	100935515
+Ahmad Ayyoub	100954214
 Objectives The goal of the computer systems design lab as part of the SYSC 4805 project is to design and implement a robotic platform.</description>
     </item>
     
@@ -100,15 +114,6 @@ Objectives The goal of the computer systems design lab as part of the SYSC 4805 
       <guid>https://zeinhajjali.com/projects/site2/</guid>
       <description>As it turns out, the HTTPS issue was because I was using Dynadot as my registrar since they apparently don’t support LetsEncrypt. After switching to NameSilo.com the issue went away, and every request came back with certificate by LetsEncrypt.
 As for the CSS not loading after switching my Github site repository to redirect to the custom domain and setting the DNS settings correctly (as outlined on the Github Pages help site), I found that I had kept my base domain in my ‘config.</description>
-    </item>
-    
-    <item>
-      <title>SITE #1: Personal/Resume/Portfolio Website</title>
-      <link>https://zeinhajjali.com/projects/site1/</link>
-      <pubDate>Tue, 05 Feb 2019 01:30:00 -0500</pubDate>
-      
-      <guid>https://zeinhajjali.com/projects/site1/</guid>
-      <description>Purpose I started building this site as an alternative to my mishmash of a site that was up before. I used to run a tiny WordPress blog which was linked from an HTML5 start page hosted on Github Pages. The start page was also in a simple style but was not as configurable as the new site. I decided to make everything more seamless and less cluttered and set out to make it a minimal stop where I can upload my blog posts, project updates, and most importantly, my resume.</description>
     </item>
     
   </channel>

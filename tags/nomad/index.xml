@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nomad on Zein Hajj-Ali</title>
+    <title>nomad on Zein Hajj-Ali</title>
     <link>https://zeinhajjali.com/tags/nomad/</link>
-    <description>Recent content in Nomad on Zein Hajj-Ali</description>
+    <description>Recent content in nomad on Zein Hajj-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -19,7 +19,8 @@
       
       <guid>https://zeinhajjali.com/projects/nnsi/</guid>
       <description>The Northern Nomad Systems Integration (NNSI) project has ended, and the final report has been submitted to the supervising professor and second reader. The project did not warrant a Github page. Instead, I have made the final report available for reading here, or for download here.
-Any questions about the project can be directed to me at zeinhajjali@outlook.com.</description>
+Any questions about the project can be directed to me at zeinhajjali@outlook.com.
+ </description>
     </item>
     
     <item>
